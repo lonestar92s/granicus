@@ -1,0 +1,8546 @@
+[
+  {
+    "id": "259",
+    "name": "ABBOTT (ROBERT)",
+    "address": "49 E 95TH ST",
+    "zip": "60628",
+    "acres": 25,
+    "ward": 9,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 8,
+      "tennis": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.719653451145156,
+    "lon": -87.6219819207842
+  },
+  {
+    "id": "1019",
+    "name": "ADAMS (GEORGE & ADELE)",
+    "address": "1919 N SEMINARY AVE",
+    "zip": "60614",
+    "acres": 0.78,
+    "ward": 43,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.91682536267967,
+    "lon": -87.65517636508139
+  },
+  {
+    "id": "1199",
+    "name": "ADAMS (JOHN C.)",
+    "address": "7535 S DOBSON AVE",
+    "zip": "60619",
+    "acres": 1.01,
+    "ward": 8,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.75717758606531,
+    "lon": -87.59871034202042
+  },
+  {
+    "id": "45",
+    "name": "ADA (SAWYER GARRETT)",
+    "address": "11250 S ADA ST",
+    "zip": "60643",
+    "acres": 16.72,
+    "ward": 34,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 4,
+      "outdoorPool": 1
+    },
+    "lat": 41.68833996542438,
+    "lon": -87.65447472656817
+  },
+  {
+    "id": "262",
+    "name": "ADDAMS (JANE)",
+    "address": "1301 W 14TH ST",
+    "zip": "60608",
+    "acres": 9.23,
+    "ward": 28,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "basketball": 2
+    },
+    "lat": 41.86184890531407,
+    "lon": -87.66299998209549
+  },
+  {
+    "id": "1224",
+    "name": "ADDAMS (JANE) MEML.",
+    "address": "485 E OHIO ST",
+    "zip": "60611",
+    "acres": 5.78,
+    "ward": 42,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.8924094818669,
+    "lon": -87.6128041180891
+  },
+  {
+    "id": "1280",
+    "name": "AIELLO (JOHN)",
+    "address": "2133 N MCVICKER AVE",
+    "zip": "60639",
+    "acres": 0.4,
+    "ward": 36,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.9190162866565,
+    "lon": -87.77655098289277
+  },
+  {
+    "id": "1161",
+    "name": "ALGONQUIN",
+    "address": "2941 N WASHTENAW AVE",
+    "zip": "60618",
+    "acres": 0.16,
+    "ward": 33,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.93521178870208,
+    "lon": -87.69502634734798
+  },
+  {
+    "id": "50",
+    "name": "ALMOND",
+    "address": "2234 W 115TH ST",
+    "zip": "60643",
+    "acres": 0.74,
+    "ward": 19,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.68447485749536,
+    "lon": -87.67653085935085
+  },
+  {
+    "id": "206",
+    "name": "ALTGELD (JOHN)",
+    "address": "515 S WASHTENAW AVE",
+    "zip": "60612",
+    "acres": 4.32,
+    "ward": 28,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.87441442703966,
+    "lon": -87.69297962746649
+  },
+  {
+    "id": "129",
+    "name": "AMUNDSEN (ROALD)",
+    "address": "6200 W BLOOMINGDALE AVE",
+    "zip": "60639",
+    "acres": 16.52,
+    "ward": 29,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.91377157625976,
+    "lon": -87.77914507874969
+  },
+  {
+    "id": "561",
+    "name": "ANDERSON (FRED)",
+    "address": "1629 S WABASH",
+    "zip": "60616",
+    "acres": 1.08,
+    "ward": 3,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {
+      "dogFriendly": 1
+    },
+    "lat": 41.85942429416363,
+    "lon": -87.62537249985124
+  },
+  {
+    "id": "1020",
+    "name": "ANDERSON (LOUIS)",
+    "address": "3748 S PRAIRIE AVE",
+    "zip": "60653",
+    "acres": 0.99,
+    "ward": 3,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 8
+    },
+    "lat": 41.82585669900023,
+    "lon": -87.62068695522203
+  },
+  {
+    "id": "1078",
+    "name": "ANDERSONVILLE",
+    "address": "5233 N ASHLAND AVE",
+    "zip": "60640",
+    "acres": 0.24,
+    "ward": 40,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.977117134997975,
+    "lon": -87.66936481699244
+  },
+  {
+    "id": "1201",
+    "name": "ARCADE",
+    "address": "11144 S ST LAWRENCE AVE",
+    "zip": "60628",
+    "acres": 1.22,
+    "ward": 9,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.69159886198036,
+    "lon": -87.60888221975347
+  },
+  {
+    "id": "250",
+    "name": "ARCHER (WILLIAM BEATTY)",
+    "address": "4901 S KILBOURN AVE",
+    "zip": "60632",
+    "acres": 14.09,
+    "ward": 14,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 1
+    },
+    "lat": 41.804437618887825,
+    "lon": -87.73513278122138
+  },
+  {
+    "id": "3",
+    "name": "ARMOUR (PHILIP) SQUARE",
+    "address": "3309 S SHIELDS AVE",
+    "zip": "60616",
+    "acres": 9.05,
+    "ward": 11,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.833792844294585,
+    "lon": -87.63389585514061
+  },
+  {
+    "id": "492",
+    "name": "ARMSTRONG (LILLIAN HARDIN)",
+    "address": "4433 S ST LAWRENCE",
+    "zip": "60653",
+    "acres": 9.29,
+    "ward": 3,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.81428544833052,
+    "lon": -87.61127143064073
+  },
+  {
+    "id": "215",
+    "name": "ARRIGO (VICTOR)",
+    "address": "1250 W LEXINGTON ST",
+    "zip": "60607",
+    "acres": 7.07,
+    "ward": 28,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {},
+    "lat": 41.871640500843284,
+    "lon": -87.66025784285169
+  },
+  {
+    "id": "459",
+    "name": "ASHE (ARTHUR) BEACH",
+    "address": "2701 E 74TH ST",
+    "zip": "60649",
+    "acres": 2.34,
+    "ward": 7,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2,
+      "beach": 1
+    },
+    "lat": 41.762556508762636,
+    "lon": -87.55791809497852
+  },
+  {
+    "id": "427",
+    "name": "ASHMORE",
+    "address": "4807 W GUNNISON ST",
+    "zip": "60630",
+    "acres": 0.16,
+    "ward": 45,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.9687683398098,
+    "lon": -87.74816477391943
+  },
+  {
+    "id": "321",
+    "name": "ASPEN",
+    "address": "4237 S WABASH AVE",
+    "zip": "60653",
+    "acres": 0.21,
+    "ward": 3,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.81712577959718,
+    "lon": -87.62437577973316
+  },
+  {
+    "id": "343",
+    "name": "ASTER",
+    "address": "4639 N KENMORE AVE",
+    "zip": "60640",
+    "acres": 0.18,
+    "ward": 46,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.96662055285165,
+    "lon": -87.65599960562245
+  },
+  {
+    "id": "80",
+    "name": "ATHLETIC FIELD",
+    "address": "3546 W ADDISON ST",
+    "zip": "60618",
+    "acres": 4.35,
+    "ward": 35,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 2
+    },
+    "lat": 41.947566290543534,
+    "lon": -87.71702636130148
+  },
+  {
+    "id": "1203",
+    "name": "AUBURN",
+    "address": "406 W WINNECONNA PKWY",
+    "zip": "60620",
+    "acres": 5.36,
+    "ward": 17,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.75221251752271,
+    "lon": -87.63640191962423
+  },
+  {
+    "id": "1021",
+    "name": "AUGUSTA (CARPENTER)",
+    "address": "4431 W AUGUSTA BLVD",
+    "zip": "60651",
+    "acres": 1.05,
+    "ward": 37,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.89862442582271,
+    "lon": -87.73793055259648
+  },
+  {
+    "id": "285",
+    "name": "AUSTIN FOSTER",
+    "address": "6020 W FOSTER AVE",
+    "zip": "60630",
+    "acres": 4.97,
+    "ward": 45,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.97663480015161,
+    "lon": -87.77886222377478
+  },
+  {
+    "id": "1204",
+    "name": "AUSTIN (HENRY)",
+    "address": "5951 W LAKE ST",
+    "zip": "60644",
+    "acres": 4.67,
+    "ward": 29,
+    "parkClass": "LINEAR PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.88771844076531,
+    "lon": -87.77124730318171
+  },
+  {
+    "id": "207",
+    "name": "AUSTIN TOWN HALL",
+    "address": "5610 W LAKE ST",
+    "zip": "60644",
+    "acres": 3.71,
+    "ward": 29,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.88850900741204,
+    "lon": -87.76581528324462
+  },
+  {
+    "id": "29",
+    "name": "AVALON",
+    "address": "1215 E 83RD ST",
+    "zip": "60619",
+    "acres": 27.71,
+    "ward": 8,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 6,
+      "outdoorPool": 1
+    },
+    "lat": 41.74184473148817,
+    "lon": -87.59444669537278
+  },
+  {
+    "id": "81",
+    "name": "AVONDALE",
+    "address": "3516 W SCHOOL ST",
+    "zip": "60618",
+    "acres": 1.31,
+    "ward": 35,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.941217055630865,
+    "lon": -87.71511477106185
+  },
+  {
+    "id": "1063",
+    "name": "BACK OF THE YARDS",
+    "address": "4920 S THROOP ST",
+    "zip": "60609",
+    "acres": 1.07,
+    "ward": 20,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.80433027745007,
+    "lon": -87.6582332249534
+  },
+  {
+    "id": "295",
+    "name": "BARAGA (FREDERICK)",
+    "address": "2440 S LEAVITT ST",
+    "zip": "60608",
+    "acres": 0.53,
+    "ward": 25,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "basketball": 2
+    },
+    "lat": 41.84745758920368,
+    "lon": -87.68074540179421
+  },
+  {
+    "id": "332",
+    "name": "BARBERRY",
+    "address": "2827 W ARTHINGTON ST",
+    "zip": "60612",
+    "acres": 0.48,
+    "ward": 28,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.87007528551375,
+    "lon": -87.69669179843673
+  },
+  {
+    "id": "1205",
+    "name": "BARNARD (AMY L.)",
+    "address": "10441 S LONGWOOD DR",
+    "zip": "60643",
+    "acres": 2.38,
+    "ward": 19,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.7032299721087,
+    "lon": -87.67030930507849
+  },
+  {
+    "id": "1022",
+    "name": "BARRETT (JOHN)",
+    "address": "2022 W CERMAK RD",
+    "zip": "60608",
+    "acres": 0.7,
+    "ward": 25,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.85231271694694,
+    "lon": -87.67659903237002
+  },
+  {
+    "id": "542",
+    "name": "BARTELME (MARY)",
+    "address": "115 S. SANGAMON ST",
+    "zip": "60602",
+    "acres": 2.71,
+    "ward": 25,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "dogFriendly": 1
+    },
+    "lat": 41.87997379813859,
+    "lon": -87.65027185957035
+  },
+  {
+    "id": "547",
+    "name": "BATTLE OF FORT DEARBORN",
+    "address": "1801 S CALUMET AVE",
+    "zip": "60616",
+    "acres": 0.46,
+    "ward": 3,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.85785003661052,
+    "lon": -87.61940865413312
+  },
+  {
+    "id": "365",
+    "name": "BAULER (MATHIAS)",
+    "address": "517 W WISCONSIN ST",
+    "zip": "60614",
+    "acres": 0.84,
+    "ward": 43,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.91628804435888,
+    "lon": -87.64175908982313
+  },
+  {
+    "id": "328",
+    "name": "BEEHIVE",
+    "address": "6156 S DORCHESTER AVE",
+    "zip": "60637",
+    "acres": 0.27,
+    "ward": 20,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.782545853769015,
+    "lon": -87.59155227543609
+  },
+  {
+    "id": "1003",
+    "name": "BEILFUSS (ALBERT W.)",
+    "address": "1725 N SPRINGFIELD AVE",
+    "zip": "60647",
+    "acres": 1.27,
+    "ward": 26,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.91232065469961,
+    "lon": -87.72345433551956
+  },
+  {
+    "id": "121",
+    "name": "BELL (GEORGE,JR.)",
+    "address": "3020 N OAK PARK AVE",
+    "zip": "60634",
+    "acres": 4.36,
+    "ward": 36,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2
+    },
+    "lat": 41.93542826120234,
+    "lon": -87.7962517626428
+  },
+  {
+    "id": "499",
+    "name": "BENIAC (JOHN \"BEANS\") GREENWAY",
+    "address": "3925 E 104TH ST",
+    "zip": "60617",
+    "acres": 7.68,
+    "ward": 10,
+    "parkClass": "LINEAR PARK",
+    "amenities": {},
+    "lat": 41.6987347290225,
+    "lon": -87.52897932791174
+  },
+  {
+    "id": "1255",
+    "name": "BERGER (ALBERT)",
+    "address": "6227 N SHERIDAN RD",
+    "zip": "60660",
+    "acres": 3.5,
+    "ward": 48,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.9950084973534,
+    "lon": -87.65489016669771
+  },
+  {
+    "id": "12",
+    "name": "BESSEMER (HENRY)",
+    "address": "8930 S MUSKEGON AVE",
+    "zip": "60617",
+    "acres": 20.27,
+    "ward": 7,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 4,
+      "outdoorPool": 1
+    },
+    "lat": 41.73074655205551,
+    "lon": -87.55627934481414
+  },
+  {
+    "id": "254",
+    "name": "BEVERLY",
+    "address": "2460 W 102ND ST",
+    "zip": "60655",
+    "acres": 13.98,
+    "ward": 19,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 4
+    },
+    "lat": 41.7073791587794,
+    "lon": -87.68409514688148
+  },
+  {
+    "id": "1207",
+    "name": "BICKERDIKE (GEORGE) SQUARE",
+    "address": "1438 W OHIO ST",
+    "zip": "60622",
+    "acres": 0.72,
+    "ward": 1,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.89229098454559,
+    "lon": -87.66469857981126
+  },
+  {
+    "id": "564",
+    "name": "BIG MARSH",
+    "address": "11555 S STONY ISLAND AVE",
+    "zip": "60617",
+    "acres": 291.7,
+    "ward": 10,
+    "parkClass": "NATURE PRESERVE PARK",
+    "amenities": {},
+    "lat": 41.693070311590546,
+    "lon": -87.57189534738995
+  },
+  {
+    "id": "322",
+    "name": "BIRCH",
+    "address": "427 E 45TH ST",
+    "zip": "60653",
+    "acres": 0.16,
+    "ward": 3,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.812834855410856,
+    "lon": -87.61524367841506
+  },
+  {
+    "id": "1083",
+    "name": "BIXLER (RAY)",
+    "address": "5641 S KENWOOD AVE",
+    "zip": "60637",
+    "acres": 1.03,
+    "ward": 5,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.79195325856292,
+    "lon": -87.59306033980195
+  },
+  {
+    "id": "122",
+    "name": "BLACKHAWK",
+    "address": "2318 N LAVERGNE AVE",
+    "zip": "60639",
+    "acres": 6.88,
+    "ward": 36,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 5
+    },
+    "lat": 41.92273353565744,
+    "lon": -87.75244519574466
+  },
+  {
+    "id": "373",
+    "name": "BLACKWELDER (GERTRUDE)",
+    "address": "1800 W 115TH ST",
+    "zip": "60643",
+    "acres": 5.18,
+    "ward": 34,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.684318753838795,
+    "lon": -87.67053772608554
+  },
+  {
+    "id": "1005",
+    "name": "BLOCK (EUGENE H.)",
+    "address": "346 W 104TH ST",
+    "zip": "60628",
+    "acres": 2.96,
+    "ward": 34,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.70637016372257,
+    "lon": -87.63240338126646
+  },
+  {
+    "id": "572",
+    "name": "BLOOMINGDALE TRAIL",
+    "address": "1601-3701 W BLOOMINGDALE AVE",
+    "zip": "60647",
+    "acres": 16.76,
+    "ward": 0,
+    "parkClass": "LINEAR PARK",
+    "amenities": {},
+    "lat": 41.91392745731687,
+    "lon": -87.69353536260155
+  },
+  {
+    "id": "264",
+    "name": "BOGAN (WILLIAM)",
+    "address": "3939 W 79TH ST",
+    "zip": "60652",
+    "acres": 14.06,
+    "ward": 18,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 3
+    },
+    "lat": 41.745710752536226,
+    "lon": -87.71985301398846
+  },
+  {
+    "id": "46",
+    "name": "BOHN (HENRY)",
+    "address": "1978 W 111TH ST",
+    "zip": "60643",
+    "acres": 1.65,
+    "ward": 19,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.692615557667104,
+    "lon": -87.671114520943
+  },
+  {
+    "id": "496",
+    "name": "BOLER (LEO ROSCOE, SR.)",
+    "address": "3601 W ARTHINGTON ST",
+    "zip": "60624",
+    "acres": 1.81,
+    "ward": 24,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.86997068247662,
+    "lon": -87.71758144874225
+  },
+  {
+    "id": "1024",
+    "name": "BOSLEY (WILLIAM)",
+    "address": "3044 S BONFIELD ST",
+    "zip": "60608",
+    "acres": 2.15,
+    "ward": 11,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.838290744201196,
+    "lon": -87.65294166789519
+  },
+  {
+    "id": "340",
+    "name": "BOSWELL (ARNITA YOUNG)",
+    "address": "6646 S UNIVERSITY AVE",
+    "zip": "60637",
+    "acres": 0.33,
+    "ward": 5,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.77371238043701,
+    "lon": -87.59870347771877
+  },
+  {
+    "id": "1004",
+    "name": "BRADLEY (JOSEPHINE)",
+    "address": "9729 S YATES AVE",
+    "zip": "60617",
+    "acres": 4.24,
+    "ward": 10,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 2
+    },
+    "lat": 41.718135368083374,
+    "lon": -87.56360248668307
+  },
+  {
+    "id": "177",
+    "name": "BRAINERD",
+    "address": "1246 W 92ND ST",
+    "zip": "60620",
+    "acres": 9.26,
+    "ward": 21,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 6,
+      "tennis": 2
+    },
+    "lat": 41.727809171240914,
+    "lon": -87.65417639966421
+  },
+  {
+    "id": "187",
+    "name": "BRANDS",
+    "address": "3285 N ELSTON AVE",
+    "zip": "60618",
+    "acres": 5.72,
+    "ward": 33,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2
+    },
+    "lat": 41.94134331459144,
+    "lon": -87.69973478224878
+  },
+  {
+    "id": "426",
+    "name": "BRIGHTON",
+    "address": "3501 S RICHMOND ST",
+    "zip": "60632",
+    "acres": 0.94,
+    "ward": 12,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.8294050085985,
+    "lon": -87.69807600945737
+  },
+  {
+    "id": "462",
+    "name": "BROADWAY ARMORY",
+    "address": "5917 N BROADWAY",
+    "zip": "60660",
+    "acres": 2.09,
+    "ward": 48,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {},
+    "lat": 41.98951699443858,
+    "lon": -87.65965168122833
+  },
+  {
+    "id": "435",
+    "name": "BROMANN (CHARLES)",
+    "address": "5400 N BROADWAY",
+    "zip": "60640",
+    "acres": 0.31,
+    "ward": 48,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.980070701457,
+    "lon": -87.6603649949676
+  },
+  {
+    "id": "487",
+    "name": "BRONCHO BILLY",
+    "address": "4437 N MAGNOLIA AVE",
+    "zip": "60640",
+    "acres": 0.51,
+    "ward": 46,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.962713393423925,
+    "lon": -87.66069236631807
+  },
+  {
+    "id": "362",
+    "name": "BROOKS (GWENDOLYN)",
+    "address": "4542 S GREENWOOD AVE",
+    "zip": "60653",
+    "acres": 2.56,
+    "ward": 4,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.811655787897934,
+    "lon": -87.59966421565507
+  },
+  {
+    "id": "61",
+    "name": "BROOKS (OSCAR)",
+    "address": "7046 N HARLEM AVE",
+    "zip": "60631",
+    "acres": 9.42,
+    "ward": 41,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2
+    },
+    "lat": 42.0099385019241,
+    "lon": -87.80832228012257
+  },
+  {
+    "id": "289",
+    "name": "BROWN (SIDNEY) MEML.",
+    "address": "644 E 86TH ST",
+    "zip": "60619",
+    "acres": 6.7,
+    "ward": 6,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 2
+    },
+    "lat": 41.73911731502467,
+    "lon": -87.60841858769354
+  },
+  {
+    "id": "1141",
+    "name": "BRYNFORD",
+    "address": "5640 N PULASKI RD",
+    "zip": "60646",
+    "acres": 0.15,
+    "ward": 39,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.98399543591144,
+    "lon": -87.72867138051244
+  },
+  {
+    "id": "1084",
+    "name": "BUENA CIRCLE",
+    "address": "1049  W BUENA",
+    "zip": "60613",
+    "acres": 0.45,
+    "ward": 46,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.95841312495147,
+    "lon": -87.65634076951154
+  },
+  {
+    "id": "157",
+    "name": "BUFFALO",
+    "address": "4500 N CALIFORNIA AVE",
+    "zip": "60625",
+    "acres": 0.23,
+    "ward": 33,
+    "parkClass": "PARKWAY PARK",
+    "amenities": {},
+    "lat": 41.96334641843929,
+    "lon": -87.69835380336106
+  },
+  {
+    "id": "27",
+    "name": "BURNHAM (DANIEL)",
+    "address": "425 E MCFETRIDGE DR",
+    "zip": "60616",
+    "acres": 657.83,
+    "ward": 0,
+    "parkClass": "MAGNET PARK",
+    "amenities": {
+      "playground": 5,
+      "basketball": 14,
+      "beach": 2,
+      "skatePark": 1
+    },
+    "lat": 41.82552049101965,
+    "lon": -87.59801618175675
+  },
+  {
+    "id": "363",
+    "name": "BURNSIDE (AMBROSE)",
+    "address": "9400 S GREENWOOD AVE",
+    "zip": "60619",
+    "acres": 5.49,
+    "ward": 8,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.724290496704654,
+    "lon": -87.59773986547619
+  },
+  {
+    "id": "385",
+    "name": "BUTTERCUP",
+    "address": "4913 N SHERIDAN RD",
+    "zip": "60640",
+    "acres": 1.85,
+    "ward": 48,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.97213927530758,
+    "lon": -87.654260617185
+  },
+  {
+    "id": "1272",
+    "name": "BUTTERNUT",
+    "address": "5324 S WOODLAWN AVE",
+    "zip": "60615",
+    "acres": 0.41,
+    "ward": 5,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.79865728494296,
+    "lon": -87.59688215823616
+  },
+  {
+    "id": "562",
+    "name": "BYRNES (MARIAN)",
+    "address": "1735-37 E 96TH ST",
+    "zip": "60643",
+    "acres": 141.39,
+    "ward": 0,
+    "parkClass": "NATURE PRESERVE PARK",
+    "amenities": {},
+    "lat": 41.71163607186657,
+    "lon": -87.57254415235073
+  },
+  {
+    "id": "189",
+    "name": "CALIFORNIA",
+    "address": "3801 N CALIFORNIA AVE",
+    "zip": "60618",
+    "acres": 14.81,
+    "ward": 33,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 6,
+      "tennis": 4,
+      "outdoorPool": 1
+    },
+    "lat": 41.95204237752847,
+    "lon": -87.69648312341583
+  },
+  {
+    "id": "11",
+    "name": "CALUMET",
+    "address": "9801 S AVENUE G",
+    "zip": "60617",
+    "acres": 181.29,
+    "ward": 10,
+    "parkClass": "CITYWIDE PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 16,
+      "beach": 2
+    },
+    "lat": 41.71535326504237,
+    "lon": -87.52870226764298
+  },
+  {
+    "id": "502",
+    "name": "CANAL ORIGINS",
+    "address": "2701 S ASHLAND AVE",
+    "zip": "60608",
+    "acres": 2.43,
+    "ward": 25,
+    "parkClass": "LINEAR PARK",
+    "amenities": {},
+    "lat": 41.8437178146242,
+    "lon": -87.66548984372587
+  },
+  {
+    "id": "516",
+    "name": "CANALPORT RIVERWALK",
+    "address": "2900 S ASHLAND AVE",
+    "zip": "60608",
+    "acres": 5.2,
+    "ward": 25,
+    "parkClass": "LINEAR PARK",
+    "amenities": {},
+    "lat": 41.84356800254501,
+    "lon": -87.66798692129396
+  },
+  {
+    "id": "1085",
+    "name": "CARMEN",
+    "address": "1224 W CARMEN AVE",
+    "zip": "60640",
+    "acres": 0.16,
+    "ward": 47,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.97477966887459,
+    "lon": -87.66092446105847
+  },
+  {
+    "id": "1086",
+    "name": "CARPENTER (PHILO)",
+    "address": "6155 S CARPENTER ST",
+    "zip": "60621",
+    "acres": 0.28,
+    "ward": 16,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.78158337163308,
+    "lon": -87.6505708581906
+  },
+  {
+    "id": "255",
+    "name": "CARVER (GEORGE WASHINGTON)",
+    "address": "939 E 132ND ST",
+    "zip": "60627",
+    "acres": 18.76,
+    "ward": 9,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 2,
+      "basketball": 4
+    },
+    "lat": 41.65378047199472,
+    "lon": -87.59870494564422
+  },
+  {
+    "id": "1279",
+    "name": "CEDAR",
+    "address": "5315 N WINTHROP AVE",
+    "zip": "60640",
+    "acres": 0.38,
+    "ward": 48,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.97865815931934,
+    "lon": -87.65757537670973
+  },
+  {
+    "id": "1238",
+    "name": "CENTENNIAL",
+    "address": "6086 N NORTHWEST HWY",
+    "zip": "60631",
+    "acres": 1.27,
+    "ward": 41,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.991655783498246,
+    "lon": -87.79912748315
+  },
+  {
+    "id": "1087",
+    "name": "CENTRAL",
+    "address": "721 N CENTRAL PARK AVE",
+    "zip": "60624",
+    "acres": 0.24,
+    "ward": 27,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.89441019972574,
+    "lon": -87.71602638405682
+  },
+  {
+    "id": "488",
+    "name": "CHALLENGER",
+    "address": "1100 W IRVING PARK RD",
+    "zip": "60613",
+    "acres": 2.94,
+    "ward": 46,
+    "parkClass": "LINEAR PARK",
+    "amenities": {
+      "dogFriendly": 1
+    },
+    "lat": 41.95795673767983,
+    "lon": -87.65705543248176
+  },
+  {
+    "id": "1209",
+    "name": "CHAMBERLAIN TRIANGLE",
+    "address": "4233 S GREENWOOD AVE",
+    "zip": "60653",
+    "acres": 0.2,
+    "ward": 4,
+    "parkClass": "PARKWAY PARK",
+    "amenities": {},
+    "lat": 41.81703197678201,
+    "lon": -87.59909350761659
+  },
+  {
+    "id": "103",
+    "name": "CHASE (SALMON)",
+    "address": "4725 N ASHLAND AV",
+    "zip": "60640",
+    "acres": 4.93,
+    "ward": 47,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 4,
+      "outdoorPool": 1
+    },
+    "lat": 41.96764445583446,
+    "lon": -87.66828403687221
+  },
+  {
+    "id": "1275",
+    "name": "CHESTNUT",
+    "address": "7005 S DANTE AVE",
+    "zip": "60637",
+    "acres": 0.5,
+    "ward": 5,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "basketball": 2
+    },
+    "lat": 41.7677061285774,
+    "lon": -87.58907240262094
+  },
+  {
+    "id": "550",
+    "name": "CHICAGO WOMEN'S PARK AND GARDENS",
+    "address": "1801 S INDIANA AVE",
+    "zip": "60616",
+    "acres": 3.06,
+    "ward": 3,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.85742619767942,
+    "lon": -87.62184688431287
+  },
+  {
+    "id": "167",
+    "name": "CHIPPEWA",
+    "address": "6758 N SACRAMENTO AVE",
+    "zip": "60645",
+    "acres": 3.27,
+    "ward": 50,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 42.00422895712245,
+    "lon": -87.70515506950656
+  },
+  {
+    "id": "146",
+    "name": "CHOPIN (FREDERIC)",
+    "address": "3420 N LONG AVE",
+    "zip": "60641",
+    "acres": 9.28,
+    "ward": 30,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 4
+    },
+    "lat": 41.94314451469066,
+    "lon": -87.76290410908261
+  },
+  {
+    "id": "1089",
+    "name": "CHRISTIANA",
+    "address": "1533 S CHRISTIANA AVE",
+    "zip": "60623",
+    "acres": 0.16,
+    "ward": 24,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "basketball": 1
+    },
+    "lat": 41.85986218752031,
+    "lon": -87.70887497501012
+  },
+  {
+    "id": "412",
+    "name": "CHURCHILL FIELD",
+    "address": "1825 N DAMEN AVE",
+    "zip": "60614",
+    "acres": 1.24,
+    "ward": 32,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "dogFriendly": 1
+    },
+    "lat": 41.914347351802405,
+    "lon": -87.67696929040692
+  },
+  {
+    "id": "400",
+    "name": "CLAREMONT",
+    "address": "2342 W FLOURNOY ST",
+    "zip": "60612",
+    "acres": 1.04,
+    "ward": 28,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.87322689820039,
+    "lon": -87.6857219823036
+  },
+  {
+    "id": "1002",
+    "name": "CLARENDON COMM. CTR.",
+    "address": "4501 N CLARENDON AVE",
+    "zip": "60640",
+    "acres": 12.78,
+    "ward": 46,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 2
+    },
+    "lat": 41.96301817904129,
+    "lon": -87.6481671213721
+  },
+  {
+    "id": "1026",
+    "name": "CLARK (JOHN)",
+    "address": "4615 W JACKSON BLVD",
+    "zip": "60644",
+    "acres": 2.2,
+    "ward": 28,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.8766405430747,
+    "lon": -87.74103912294957
+  },
+  {
+    "id": "457",
+    "name": "CLARK (RICHARD)",
+    "address": "3400 N ROCKWELL AVE",
+    "zip": "60618",
+    "acres": 19.94,
+    "ward": 47,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {},
+    "lat": 41.94271589417139,
+    "lon": -87.69411357970715
+  },
+  {
+    "id": "1277",
+    "name": "CLOVER",
+    "address": "2210 N SOUTHPORT AVE",
+    "zip": "60614",
+    "acres": 0.41,
+    "ward": 2,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.922063635659406,
+    "lon": -87.66370252153617
+  },
+  {
+    "id": "1091",
+    "name": "CLYBOURN (ARCHIBALD)",
+    "address": "1755 N CLYBOURN AVE",
+    "zip": "60614",
+    "acres": 0.49,
+    "ward": 2,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "basketball": 2
+    },
+    "lat": 41.91319656034898,
+    "lon": -87.65221994253545
+  },
+  {
+    "id": "420",
+    "name": "COCHRAN (JOHN)",
+    "address": "5554 N MAGNOLIA AVE",
+    "zip": "60640",
+    "acres": 0.38,
+    "ward": 48,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.98346041677353,
+    "lon": -87.6616986895939
+  },
+  {
+    "id": "292",
+    "name": "COLEMAN (BESSIE)",
+    "address": "900 E 54TH PL",
+    "zip": "60615",
+    "acres": 0.57,
+    "ward": 5,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.79639708516231,
+    "lon": -87.6035588687648
+  },
+  {
+    "id": "270",
+    "name": "COLE (NAT KING)",
+    "address": "361 E 85TH ST",
+    "zip": "60619",
+    "acres": 5.91,
+    "ward": 6,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.739173362854146,
+    "lon": -87.61518089527765
+  },
+  {
+    "id": "507",
+    "name": "COLISEUM",
+    "address": "1466 S WABASH AV",
+    "zip": "60605",
+    "acres": 0.75,
+    "ward": 3,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "dogFriendly": 1
+    },
+    "lat": 41.862257491942884,
+    "lon": -87.62599938571331
+  },
+  {
+    "id": "209",
+    "name": "COLUMBUS (CHRISTOPHER)",
+    "address": "500 S CENTRAL AVE",
+    "zip": "60644",
+    "acres": 140.73,
+    "ward": 29,
+    "parkClass": "CITYWIDE PARK",
+    "amenities": {
+      "playground": 2,
+      "basketball": 6,
+      "tennis": 6,
+      "outdoorPool": 1
+    },
+    "lat": 41.8745795402764,
+    "lon": -87.76891273692807
+  },
+  {
+    "id": "1006",
+    "name": "COMMERCIAL CLUB PGD. of CHICAGO",
+    "address": "1845 W RICE ST",
+    "zip": "60622",
+    "acres": 1.51,
+    "ward": 1,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.89667324601051,
+    "lon": -87.67385978675917
+  },
+  {
+    "id": "1200",
+    "name": "CONNORS (WILLIAM)",
+    "address": "871 N WABASH AVE",
+    "zip": "60611",
+    "acres": 0.33,
+    "ward": 42,
+    "parkClass": "PARKWAYS PARK",
+    "amenities": {},
+    "lat": 41.898686913087566,
+    "lon": -87.62672065867574
+  },
+  {
+    "id": "287",
+    "name": "COOPER (JACK)",
+    "address": "1332 W 117TH ST",
+    "zip": "60643",
+    "acres": 4.6,
+    "ward": 34,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 2
+    },
+    "lat": 41.68035783744748,
+    "lon": -87.65528340276961
+  },
+  {
+    "id": "378",
+    "name": "CORNELL (PAUL)",
+    "address": "5473 S CORNELL AVE",
+    "zip": "60615",
+    "acres": 0.24,
+    "ward": 5,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.79604827035128,
+    "lon": -87.58513893939133
+  },
+  {
+    "id": "5",
+    "name": "CORNELL (PAUL) SQUARE",
+    "address": "1809 W 50TH ST",
+    "zip": "60609",
+    "acres": 8.8,
+    "ward": 20,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 3,
+      "outdoorPool": 1
+    },
+    "lat": 41.80238182204591,
+    "lon": -87.67108460908548
+  },
+  {
+    "id": "176",
+    "name": "COSME (MARGARET)",
+    "address": "2100 W 91ST ST",
+    "zip": "60620",
+    "acres": 4.12,
+    "ward": 19,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 3
+    },
+    "lat": 41.72741376969727,
+    "lon": -87.66790947766027
+  },
+  {
+    "id": "480",
+    "name": "COTTON TAIL",
+    "address": "44 W 15TH ST",
+    "zip": "60616",
+    "acres": 2.38,
+    "ward": 3,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.86278295609236,
+    "lon": -87.62871282643357
+  },
+  {
+    "id": "416",
+    "name": "COTTONWOOD",
+    "address": "5058 W WEST END AVE",
+    "zip": "60644",
+    "acres": 0.25,
+    "ward": 28,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.88341495556467,
+    "lon": -87.75262404954606
+  },
+  {
+    "id": "131",
+    "name": "CRAGIN",
+    "address": "2611 N LOCKWOOD AVE",
+    "zip": "60639",
+    "acres": 3.3,
+    "ward": 31,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 2
+    },
+    "lat": 41.92819177056742,
+    "lon": -87.75807534536084
+  },
+  {
+    "id": "359",
+    "name": "CRAWFORD (PETER)",
+    "address": "1516 S KARLOV AVE",
+    "zip": "60623",
+    "acres": 0.16,
+    "ward": 24,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.86009207207874,
+    "lon": -87.72764003729894
+  },
+  {
+    "id": "47",
+    "name": "CRESCENT",
+    "address": "2230 W 108TH PL",
+    "zip": "60643",
+    "acres": 5.97,
+    "ward": 19,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2
+    },
+    "lat": 41.69746922454441,
+    "lon": -87.67699069055456
+  },
+  {
+    "id": "408",
+    "name": "CURIE (MARIE)",
+    "address": "4959 S ARCHER AVE",
+    "zip": "60632",
+    "acres": 9.03,
+    "ward": 14,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "basketball": 4,
+      "tennis": 5
+    },
+    "lat": 41.803349592244615,
+    "lon": -87.71919677806673
+  },
+  {
+    "id": "530",
+    "name": "DALEY (RICHARD J.)",
+    "address": "3150 S WESTERN AVE",
+    "zip": "60608",
+    "acres": 2.67,
+    "ward": 25,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.83659468408578,
+    "lon": -87.68624352624245
+  },
+  {
+    "id": "14",
+    "name": "DAVIS (DR. NATHAN) SQUARE",
+    "address": "4430 S MARSHFIELD AVE",
+    "zip": "60609",
+    "acres": 8.91,
+    "ward": 15,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "outdoorPool": 1
+    },
+    "lat": 41.81316315267659,
+    "lon": -87.66732170748121
+  },
+  {
+    "id": "1092",
+    "name": "DAVIS (MARGARET)",
+    "address": "5427 W DIVISION ST",
+    "zip": "60651",
+    "acres": 0.29,
+    "ward": 37,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "basketball": 2
+    },
+    "lat": 41.90202982966328,
+    "lon": -87.76216882690495
+  },
+  {
+    "id": "239",
+    "name": "DAWES (CHARLES)",
+    "address": "8040 S DAMEN AV",
+    "zip": "60620",
+    "acres": 16.56,
+    "ward": 18,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.74643232975589,
+    "lon": -87.67477839657167
+  },
+  {
+    "id": "1027",
+    "name": "DEAN (JOHN)",
+    "address": "1356 N DEAN ST",
+    "zip": "60622",
+    "acres": 0.66,
+    "ward": 1,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.906886796873636,
+    "lon": -87.67076479932378
+  },
+  {
+    "id": "465",
+    "name": "DEARBORN (HENRY)",
+    "address": "865 S PARK TER",
+    "zip": "60605",
+    "acres": 1.46,
+    "ward": 4,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.87087136503056,
+    "lon": -87.62893018502295
+  },
+  {
+    "id": "405",
+    "name": "DEBOW (RUSSELL)",
+    "address": "1126 E 80TH ST",
+    "zip": "60619",
+    "acres": 0.69,
+    "ward": 8,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.74959773804933,
+    "lon": -87.5966005765693
+  },
+  {
+    "id": "554",
+    "name": "DE BURGOS (JULIA)",
+    "address": "1805 N ALBANY AVE",
+    "zip": "60647",
+    "acres": 0.51,
+    "ward": 1,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.913967152857275,
+    "lon": -87.70475433899803
+  },
+  {
+    "id": "1093",
+    "name": "DEGEORGE (BERNICE)",
+    "address": "4905 W WABANSIA AVE",
+    "zip": "60639",
+    "acres": 0.37,
+    "ward": 37,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.911186837114045,
+    "lon": -87.74940892881038
+  },
+  {
+    "id": "366",
+    "name": "DEJULIO (ANTHONY)",
+    "address": "6056 N LANDERS AVE",
+    "zip": "60646",
+    "acres": 0.67,
+    "ward": 39,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.990757479911665,
+    "lon": -87.75347218365759
+  },
+  {
+    "id": "390",
+    "name": "D'ELIA (AILEEN)",
+    "address": "6340 N LAKEWOOD AVE",
+    "zip": "60660",
+    "acres": 0.08,
+    "ward": 48,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.99755266428512,
+    "lon": -87.6631982305765
+  },
+  {
+    "id": "1211",
+    "name": "DICKINSON (ARTHUR)",
+    "address": "4117 N LAVERGNE AVE",
+    "zip": "60641",
+    "acres": 1.22,
+    "ward": 45,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.955669136886186,
+    "lon": -87.75198983723739
+  },
+  {
+    "id": "1210",
+    "name": "DIXON (LORRAINE)",
+    "address": "8931 S DAUPHIN AVE",
+    "zip": "60619",
+    "acres": 6.72,
+    "ward": 8,
+    "parkClass": "LINEAR PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.73168684886666,
+    "lon": -87.60209553745311
+  },
+  {
+    "id": "1094",
+    "name": "DOBSON",
+    "address": "7521 S DOBSON AVE",
+    "zip": "60619",
+    "acres": 0.34,
+    "ward": 8,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.757753621766966,
+    "lon": -87.59905102532223
+  },
+  {
+    "id": "344",
+    "name": "DOGWOOD",
+    "address": "2734 W POLK ST",
+    "zip": "60612",
+    "acres": 0.16,
+    "ward": 28,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.871229400946234,
+    "lon": -87.69493132298565
+  },
+  {
+    "id": "570",
+    "name": "DONAHUE (MARGARET)",
+    "address": "1230 W SCHOOL ST",
+    "zip": "60657",
+    "acres": 0.53,
+    "ward": 44,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.941808157613536,
+    "lon": -87.66017142010602
+  },
+  {
+    "id": "1029",
+    "name": "DONOVAN (GEORGE)",
+    "address": "3620 S LITUANICA AVE",
+    "zip": "60609",
+    "acres": 3.54,
+    "ward": 11,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.82821433263252,
+    "lon": -87.64797887053899
+  },
+  {
+    "id": "296",
+    "name": "DOOLEY (THOMAS)",
+    "address": "3426 W 77TH ST",
+    "zip": "60652",
+    "acres": 1.38,
+    "ward": 18,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.75359526550943,
+    "lon": -87.70764797341174
+  },
+  {
+    "id": "1251",
+    "name": "DORIA (HELEN) BEACH",
+    "address": "1040 W COLUMBIA AVE",
+    "zip": "60626",
+    "acres": 0.95,
+    "ward": 49,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {
+      "beach": 1
+    },
+    "lat": 42.004607036997,
+    "lon": -87.65749206792765
+  },
+  {
+    "id": "368",
+    "name": "DOUGHERTY (DANIEL)",
+    "address": "9336 S KINGSTON AVE",
+    "zip": "60647",
+    "acres": 3.15,
+    "ward": 7,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.72469395828706,
+    "lon": -87.56254460316775
+  },
+  {
+    "id": "218",
+    "name": "DOUGLASS (ANNA & FREDERICK)",
+    "address": "1401 S SACRAMENTO DR",
+    "zip": "60623",
+    "acres": 165.49,
+    "ward": 0,
+    "parkClass": "CITYWIDE PARK",
+    "amenities": {
+      "playground": 5,
+      "basketball": 8,
+      "tennis": 3,
+      "outdoorPool": 1
+    },
+    "lat": 41.86175904449553,
+    "lon": -87.69940864773416
+  },
+  {
+    "id": "441",
+    "name": "DREXEL (FRANCIS)",
+    "address": "6931 S DAMEN AVE",
+    "zip": "60636",
+    "acres": 0.31,
+    "ward": 17,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.76740206323324,
+    "lon": -87.67336792721194
+  },
+  {
+    "id": "306",
+    "name": "DUBKIN (LEONARD)",
+    "address": "7442 N ASHLAND Blvd",
+    "zip": "60626",
+    "acres": 0.36,
+    "ward": 49,
+    "parkClass": "PARKWAY PARK",
+    "amenities": {},
+    "lat": 42.01734905901324,
+    "lon": -87.67066917174493
+  },
+  {
+    "id": "267",
+    "name": "DUNBAR (PAUL LAURENCE)",
+    "address": "200 E 31ST ST",
+    "zip": "60616",
+    "acres": 21.91,
+    "ward": 4,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 2,
+      "basketball": 8,
+      "tennis": 6
+    },
+    "lat": 41.84016540289976,
+    "lon": -87.62046431711978
+  },
+  {
+    "id": "258",
+    "name": "DUNHAM (ROBERT)",
+    "address": "4640 N MELVINA AVE",
+    "zip": "60630",
+    "acres": 14.88,
+    "ward": 38,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 3
+    },
+    "lat": 41.966252645445586,
+    "lon": -87.78420167076767
+  },
+  {
+    "id": "268",
+    "name": "DURKIN (MARTIN)",
+    "address": "8441 S KOLIN AVE",
+    "zip": "60652",
+    "acres": 9.69,
+    "ward": 18,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.73947156765373,
+    "lon": -87.72755607101617
+  },
+  {
+    "id": "1037",
+    "name": "DURSO (JOHN)",
+    "address": "421 W LOCUST ST",
+    "zip": "60610",
+    "acres": 1.48,
+    "ward": 27,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.898325217577366,
+    "lon": -87.63968198403911
+  },
+  {
+    "id": "478",
+    "name": "DUSABLE (JEAN BAPTISTE POINTE)",
+    "address": "401 N LAKE SHORE DR",
+    "zip": "60611",
+    "acres": 3.43,
+    "ward": 42,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.88939175653945,
+    "lon": -87.61318475206076
+  },
+  {
+    "id": "216",
+    "name": "DVORAK (ANTON)",
+    "address": "1119 W CULLERTON ST",
+    "zip": "60608",
+    "acres": 6.34,
+    "ward": 25,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 2,
+      "basketball": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.85417513970613,
+    "lon": -87.65403904943847
+  },
+  {
+    "id": "232",
+    "name": "ECKERSALL (WALTER HERBERT)",
+    "address": "2430 E 82ND ST",
+    "zip": "60617",
+    "acres": 2.95,
+    "ward": 7,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.74662071560673,
+    "lon": -87.56488560794845
+  },
+  {
+    "id": "208",
+    "name": "ECKHART (BERNARD)",
+    "address": "1330 W CHICAGO AVE",
+    "zip": "60622",
+    "acres": 8.85,
+    "ward": 27,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.896956990996394,
+    "lon": -87.66108525427825
+  },
+  {
+    "id": "335",
+    "name": "EDGEBROOK",
+    "address": "6525 N HIAWATHA AVE",
+    "zip": "60646",
+    "acres": 7.6,
+    "ward": 41,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 42.00055898864656,
+    "lon": -87.7614708227493
+  },
+  {
+    "id": "62",
+    "name": "EDISON (THOMAS ALVA)",
+    "address": "6755 N NORTHWEST HWY",
+    "zip": "60631",
+    "acres": 0.83,
+    "ward": 41,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 42.00404472402647,
+    "lon": -87.81780369907707
+  },
+  {
+    "id": "391",
+    "name": "EDMONDS (MOLLY)",
+    "address": "711 W 60TH PL",
+    "zip": "60621",
+    "acres": 0.52,
+    "ward": 16,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.783693925286286,
+    "lon": -87.64311456590504
+  },
+  {
+    "id": "283",
+    "name": "EHRLER (WILLIAM)",
+    "address": "2230 W CORTLAND ST",
+    "zip": "60647",
+    "acres": 0.98,
+    "ward": 32,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.916243803581224,
+    "lon": -87.6837518439003
+  },
+  {
+    "id": "1213",
+    "name": "ELLIS (SAMUEL)",
+    "address": "600 E 37TH ST",
+    "zip": "60653",
+    "acres": 9.86,
+    "ward": 4,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.82910506722343,
+    "lon": -87.61058639682622
+  },
+  {
+    "id": "279",
+    "name": "ELM",
+    "address": "5215 S WOODLAWN AVE",
+    "zip": "60615",
+    "acres": 0.52,
+    "ward": 4,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.800326412367944,
+    "lon": -87.59640112473713
+  },
+  {
+    "id": "1097",
+    "name": "ELSTON (DANIEL)",
+    "address": "3461 N TROY ST",
+    "zip": "60618",
+    "acres": 0.52,
+    "ward": 33,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.944500131699115,
+    "lon": -87.70628226483078
+  },
+  {
+    "id": "1098",
+    "name": "EMERALD",
+    "address": "5600 S EMERALD AVE",
+    "zip": "60621",
+    "acres": 0.24,
+    "ward": 20,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "basketball": 2
+    },
+    "lat": 41.79234292516483,
+    "lon": -87.64407502140374
+  },
+  {
+    "id": "104",
+    "name": "EMMERSON (LOUIS)",
+    "address": "1820 W GRANVILLE AVE",
+    "zip": "60660",
+    "acres": 2.68,
+    "ward": 40,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 2
+    },
+    "lat": 41.99453364920215,
+    "lon": -87.67701992279187
+  },
+  {
+    "id": "434",
+    "name": "ESSEX",
+    "address": "7687 S SOUTH CHICAGO AVE",
+    "zip": "60619",
+    "acres": 0.49,
+    "ward": 5,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.75499621262056,
+    "lon": -87.5899337525777
+  },
+  {
+    "id": "66",
+    "name": "EUCLID",
+    "address": "9800 S PARNELL AVE",
+    "zip": "60628",
+    "acres": 6.47,
+    "ward": 34,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 2
+    },
+    "lat": 41.71649041698619,
+    "lon": -87.63773376218508
+  },
+  {
+    "id": "1214",
+    "name": "EUGENIE TRIANGLE",
+    "address": "1707 N LA SALLE ST",
+    "zip": "60614",
+    "acres": 0.06,
+    "ward": 43,
+    "parkClass": "PARKWAY PARK",
+    "amenities": {},
+    "lat": 41.913229944871645,
+    "lon": -87.63310076621526
+  },
+  {
+    "id": "1276",
+    "name": "EVERGREEN",
+    "address": "631 W BELMONT AVE",
+    "zip": "60657",
+    "acres": 0.15,
+    "ward": 44,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.93987557893267,
+    "lon": -87.64567628173242
+  },
+  {
+    "id": "1253",
+    "name": "FARGO (JAMES) BEACH",
+    "address": "1300 W FARGO AVE",
+    "zip": "60626",
+    "acres": 0.61,
+    "ward": 49,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {
+      "beach": 1
+    },
+    "lat": 42.01728384134468,
+    "lon": -87.66308185339629
+  },
+  {
+    "id": "1100",
+    "name": "FELLGER (CHARLES)",
+    "address": "2012 W BELMONT AVE",
+    "zip": "60618",
+    "acres": 0.79,
+    "ward": 32,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.9397320569839,
+    "lon": -87.67867823313094
+  },
+  {
+    "id": "65",
+    "name": "FERNWOOD",
+    "address": "10436 S WALLACE ST",
+    "zip": "60628",
+    "acres": 12.33,
+    "ward": 34,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 4
+    },
+    "lat": 41.703869547312706,
+    "lon": -87.63928677094053
+  },
+  {
+    "id": "1215",
+    "name": "FERNWOOD PKWY.",
+    "address": "9501 S EGGLESTON AVE",
+    "zip": "60628",
+    "acres": 9.29,
+    "ward": 0,
+    "parkClass": "LINEAR PARK",
+    "amenities": {},
+    "lat": 41.713361784603286,
+    "lon": -87.63360537251585
+  },
+  {
+    "id": "41",
+    "name": "FIELD (EUGENE)",
+    "address": "5100 N RIDGEWAY AVE",
+    "zip": "60625",
+    "acres": 17.82,
+    "ward": 39,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 5
+    },
+    "lat": 41.97471779981908,
+    "lon": -87.72323481535267
+  },
+  {
+    "id": "1281",
+    "name": "FILBERT",
+    "address": "1822 W LARCHMONT AVE",
+    "zip": "60613",
+    "acres": 0.12,
+    "ward": 47,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.95342998351242,
+    "lon": -87.67504848514778
+  },
+  {
+    "id": "431",
+    "name": "FLOWER (LUCY)",
+    "address": "2554 W MOFFAT ST",
+    "zip": "60647",
+    "acres": 0.37,
+    "ward": 1,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.9150293317764,
+    "lon": -87.69205037440703
+  },
+  {
+    "id": "331",
+    "name": "FLYING SQUIRREL",
+    "address": "6600 S WOODLAWN AVE",
+    "zip": "60637",
+    "acres": 0.33,
+    "ward": 5,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.77498479445808,
+    "lon": -87.59632787678821
+  },
+  {
+    "id": "70",
+    "name": "FOREST GLEN",
+    "address": "5073 W BERWYN AVE",
+    "zip": "60630",
+    "acres": 0.42,
+    "ward": 39,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.9776863503586,
+    "lon": -87.75471348900405
+  },
+  {
+    "id": "1030",
+    "name": "FOSCO (PETER)",
+    "address": "1313 S THROOP ST",
+    "zip": "60608",
+    "acres": 3.76,
+    "ward": 25,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 2
+    },
+    "lat": 41.86450320103714,
+    "lon": -87.65769429510347
+  },
+  {
+    "id": "26",
+    "name": "FOSTER (J. FRANK)",
+    "address": "1400 W 84TH ST",
+    "zip": "60620",
+    "acres": 25.2,
+    "ward": 21,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 8,
+      "tennis": 8
+    },
+    "lat": 41.74134575562576,
+    "lon": -87.65998396370732
+  },
+  {
+    "id": "202",
+    "name": "FRANKLIN (BENJAMIN)",
+    "address": "1449 S KOLIN AVE",
+    "zip": "60623",
+    "acres": 9.3,
+    "ward": 24,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 6,
+      "outdoorPool": 1
+    },
+    "lat": 41.86155102169468,
+    "lon": -87.73329320717937
+  },
+  {
+    "id": "4",
+    "name": "FULLER (MELVILLE)",
+    "address": "331 W 45TH ST",
+    "zip": "60609",
+    "acres": 11.31,
+    "ward": 3,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 6,
+      "tennis": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.811670557066506,
+    "lon": -87.63377264474066
+  },
+  {
+    "id": "22",
+    "name": "GAGE (GEORGE)",
+    "address": "2415 W 55TH ST",
+    "zip": "60629",
+    "acres": 26.5,
+    "ward": 0,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 6,
+      "outdoorPool": 1
+    },
+    "lat": 41.79355924589384,
+    "lon": -87.68412431908445
+  },
+  {
+    "id": "130",
+    "name": "GALEWOOD",
+    "address": "5729 W BLOOMINGDALE AVE",
+    "zip": "60639",
+    "acres": 2.3,
+    "ward": 29,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 3
+    },
+    "lat": 41.91246728392022,
+    "lon": -87.76890279093925
+  },
+  {
+    "id": "204",
+    "name": "GARFIELD (JAMES)",
+    "address": "100 N CENTRAL PARK DR",
+    "zip": "60624",
+    "acres": 175.9,
+    "ward": 28,
+    "parkClass": "CITYWIDE PARK",
+    "amenities": {
+      "playground": 2,
+      "basketball": 6,
+      "tennis": 6,
+      "outdoorPool": 1
+    },
+    "lat": 41.87986151703303,
+    "lon": -87.71808272933542
+  },
+  {
+    "id": "1047",
+    "name": "GARIBALDI (GIUSEPPI)",
+    "address": "1520 W POLK ST",
+    "zip": "60607",
+    "acres": 2.55,
+    "ward": 28,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.87257468904243,
+    "lon": -87.66510442487557
+  },
+  {
+    "id": "244",
+    "name": "GATELY (JAMES)",
+    "address": "810 E 103RD ST",
+    "zip": "60628",
+    "acres": 27.9,
+    "ward": 8,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 6
+    },
+    "lat": 41.70806862128991,
+    "lon": -87.60491195291742
+  },
+  {
+    "id": "364",
+    "name": "GILL (JOSEPH)",
+    "address": "825 W SHERIDAN RD",
+    "zip": "60613",
+    "acres": 2.42,
+    "ward": 46,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.95226650258423,
+    "lon": -87.65033229482053
+  },
+  {
+    "id": "347",
+    "name": "GINKGO",
+    "address": "3432 W 15TH ST",
+    "zip": "60623",
+    "acres": 0.18,
+    "ward": 24,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.8609145825659,
+    "lon": -87.71172659067518
+  },
+  {
+    "id": "93",
+    "name": "GLADSTONE (WILLIAM)",
+    "address": "5421 N MENARD AVE",
+    "zip": "60630",
+    "acres": 1.73,
+    "ward": 45,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.979172781502015,
+    "lon": -87.77294696785366
+  },
+  {
+    "id": "1102",
+    "name": "GLADYS (GUNDERSON)",
+    "address": "3307 W GLADYS AVE",
+    "zip": "60624",
+    "acres": 0.42,
+    "ward": 28,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.87597599564075,
+    "lon": -87.70859935179682
+  },
+  {
+    "id": "384",
+    "name": "GOLDBERG (LOUIS)",
+    "address": "7053 N GLENWOOD AVE",
+    "zip": "60626",
+    "acres": 0.27,
+    "ward": 49,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 42.01055829768273,
+    "lon": -87.66568795954446
+  },
+  {
+    "id": "288",
+    "name": "GOLDEN GATE",
+    "address": "500 E 130TH ST",
+    "zip": "60627",
+    "acres": 6.41,
+    "ward": 9,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.65783943710418,
+    "lon": -87.61122067667513
+  },
+  {
+    "id": "40",
+    "name": "GOMPERS (SAMUEL)",
+    "address": "4222 W FOSTER AVE",
+    "zip": "60630",
+    "acres": 38.24,
+    "ward": 39,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 5,
+      "outdoorPool": 1
+    },
+    "lat": 41.97618176647829,
+    "lon": -87.73445404634208
+  },
+  {
+    "id": "348",
+    "name": "GOOSEBERRY",
+    "address": "4648 N MALDEN ST",
+    "zip": "60640",
+    "acres": 0.21,
+    "ward": 46,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.966736989808574,
+    "lon": -87.66284121176484
+  },
+  {
+    "id": "105",
+    "name": "GOUDY (WILLIAM) SQUARE",
+    "address": "1255 N ASTOR ST",
+    "zip": "60610",
+    "acres": 0.61,
+    "ward": 43,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.90558993546758,
+    "lon": -87.62699403970154
+  },
+  {
+    "id": "1103",
+    "name": "GRAND",
+    "address": "3531 W GRAND AVE",
+    "zip": "60651",
+    "acres": 0.39,
+    "ward": 27,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.901221560391626,
+    "lon": -87.71506407169954
+  },
+  {
+    "id": "15",
+    "name": "GRAND CROSSING",
+    "address": "7655 S INGLESIDE AVE",
+    "zip": "60619",
+    "acres": 18.89,
+    "ward": 8,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 6,
+      "outdoorPool": 1
+    },
+    "lat": 41.75472453379439,
+    "lon": -87.6007420139305
+  },
+  {
+    "id": "472",
+    "name": "GRANDPARENTS'",
+    "address": "5445 N CHESTER ST",
+    "zip": "60656",
+    "acres": 1.79,
+    "ward": 41,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.97899172409155,
+    "lon": -87.83867436622893
+  },
+  {
+    "id": "24",
+    "name": "GRANT (ULYSSES)",
+    "address": "331 E RANDOLPH ST",
+    "zip": "60605",
+    "acres": 295.45,
+    "ward": 0,
+    "parkClass": "MAGNET PARK",
+    "amenities": {
+      "playground": 1,
+      "dogFriendly": 1,
+      "tennis": 6,
+      "skatePark": 2
+    },
+    "lat": 41.875321896963534,
+    "lon": -87.61837565698481
+  },
+  {
+    "id": "381",
+    "name": "GRAPE",
+    "address": "2850 W AVONDALE AVE",
+    "zip": "60618",
+    "acres": 0.16,
+    "ward": 33,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.933561898911876,
+    "lon": -87.69935193287454
+  },
+  {
+    "id": "179",
+    "name": "GRAVER (PHILIP)",
+    "address": "1518 W 102ND PL",
+    "zip": "60643",
+    "acres": 5.16,
+    "ward": 19,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 3
+    },
+    "lat": 41.70765159022557,
+    "lon": -87.66044601121223
+  },
+  {
+    "id": "188",
+    "name": "GREEN BRIAR",
+    "address": "2650 W PETERSON AVE",
+    "zip": "60659",
+    "acres": 4.1,
+    "ward": 40,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 1
+    },
+    "lat": 41.991407804498515,
+    "lon": -87.69635061631689
+  },
+  {
+    "id": "132",
+    "name": "GREENEBAUM (HENRY)",
+    "address": "1729 N KILDARE AVE",
+    "zip": "60639",
+    "acres": 4.59,
+    "ward": 26,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.91205512084756,
+    "lon": -87.73364195973888
+  },
+  {
+    "id": "1212",
+    "name": "GREEN (JEFFREY)",
+    "address": "6500 N ALGONQUIN AVE",
+    "zip": "60646",
+    "acres": 1.35,
+    "ward": 41,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.99997868494974,
+    "lon": -87.766267463078
+  },
+  {
+    "id": "1257",
+    "name": "GRIFFIN (MARION MAHONY)",
+    "address": "1234 W JARVIS AVE",
+    "zip": "60626",
+    "acres": 1.05,
+    "ward": 49,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "beach": 1
+    },
+    "lat": 42.015955201626134,
+    "lon": -87.66238178487654
+  },
+  {
+    "id": "1031",
+    "name": "GROSS (THEODORE)",
+    "address": "2708 W LAWRENCE AVE",
+    "zip": "60625",
+    "acres": 1.55,
+    "ward": 40,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.96912239163644,
+    "lon": -87.69651564721634
+  },
+  {
+    "id": "1032",
+    "name": "HAAS (JOSEPH)",
+    "address": "2402 N WASHTENAW AVE",
+    "zip": "60647",
+    "acres": 1.78,
+    "ward": 1,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.92512260558874,
+    "lon": -87.69577811563857
+  },
+  {
+    "id": "234",
+    "name": "HALE (NATHAN)",
+    "address": "6140 S MELVINA AVE",
+    "zip": "60638",
+    "acres": 17.44,
+    "ward": 13,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.77997513252881,
+    "lon": -87.77847006656528
+  },
+  {
+    "id": "9",
+    "name": "HAMILTON (ALEXANDER)",
+    "address": "513 W 72ND ST",
+    "zip": "60621",
+    "acres": 28.94,
+    "ward": 6,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 8,
+      "outdoorPool": 1
+    },
+    "lat": 41.761753752253426,
+    "lon": -87.63685285743259
+  },
+  {
+    "id": "106",
+    "name": "HAMLIN (HANNIBAL)",
+    "address": "3035 N HOYNE AVE",
+    "zip": "60618",
+    "acres": 9.08,
+    "ward": 32,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "dogFriendly": 1,
+      "basketball": 4,
+      "tennis": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.93669369611031,
+    "lon": -87.67929731989469
+  },
+  {
+    "id": "1111",
+    "name": "HANSBERRY (LORRAINE)",
+    "address": "5635 S INDIANA AVE",
+    "zip": "60637",
+    "acres": 0.72,
+    "ward": 20,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.79175174630722,
+    "lon": -87.62048169085094
+  },
+  {
+    "id": "1106",
+    "name": "HARDING (FREDERICK)",
+    "address": "3921 W DIVISION ST",
+    "zip": "60651",
+    "acres": 0.44,
+    "ward": 37,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.902422167191965,
+    "lon": -87.72487836481888
+  },
+  {
+    "id": "1033",
+    "name": "HARDING (GEORGE)",
+    "address": "4912 S CALUMET AVE",
+    "zip": "60615",
+    "acres": 0.75,
+    "ward": 3,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 1
+    },
+    "lat": 41.805415653232565,
+    "lon": -87.61828819425088
+  },
+  {
+    "id": "524",
+    "name": "HARRIS (HARRIET)",
+    "address": "6200 S DREXEL AVE",
+    "zip": "60637",
+    "acres": 2.37,
+    "ward": 20,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.78192119527104,
+    "lon": -87.60474401161659
+  },
+  {
+    "id": "213",
+    "name": "HARRISON (CARTER)",
+    "address": "1824 S WOOD ST",
+    "zip": "60608",
+    "acres": 18.58,
+    "ward": 25,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 2
+    },
+    "lat": 41.85632636366198,
+    "lon": -87.67229303388939
+  },
+  {
+    "id": "1225",
+    "name": "HARRIS (RYAN) MEMORIAL",
+    "address": "6701 S LOWE AVE",
+    "zip": "60621",
+    "acres": 3.12,
+    "ward": 0,
+    "parkClass": "LINEAR PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.77081929635531,
+    "lon": -87.64004001119099
+  },
+  {
+    "id": "324",
+    "name": "HARSH (VIVIAN G.)",
+    "address": "4464 S OAKENWALD AVE",
+    "zip": "60653",
+    "acres": 0.31,
+    "ward": 4,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.813936493815206,
+    "lon": -87.59543064854373
+  },
+  {
+    "id": "1248",
+    "name": "HARTIGAN (DAVID) BEACH",
+    "address": "1040 W ALBION AVE",
+    "zip": "60626",
+    "acres": 2.24,
+    "ward": 49,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "beach": 1
+    },
+    "lat": 42.00256227688582,
+    "lon": -87.65717967151012
+  },
+  {
+    "id": "294",
+    "name": "HASAN (ELLIOT)",
+    "address": "6855 S OGLESBY AVE",
+    "zip": "60649",
+    "acres": 0.35,
+    "ward": 5,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.76996137856932,
+    "lon": -87.56812394862072
+  },
+  {
+    "id": "242",
+    "name": "HAYES (FRANCIS)",
+    "address": "2936 W 85TH ST",
+    "zip": "60652",
+    "acres": 20.63,
+    "ward": 18,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.73922639012013,
+    "lon": -87.69703797499385
+  },
+  {
+    "id": "417",
+    "name": "HAZELNUT",
+    "address": "5949 W HURON ST",
+    "zip": "60644",
+    "acres": 0.29,
+    "ward": 29,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.89262777426426,
+    "lon": -87.77407964218143
+  },
+  {
+    "id": "563",
+    "name": "HEGEWISCH MARSH",
+    "address": "13000 S TORRENCE AVE",
+    "zip": "60633",
+    "acres": 130.45,
+    "ward": 10,
+    "parkClass": "NATURE PRESERVE PARK",
+    "amenities": {},
+    "lat": 41.6558548710882,
+    "lon": -87.56486112483135
+  },
+  {
+    "id": "537",
+    "name": "HERITAGE GREEN",
+    "address": "610-30 W ADAMS ST",
+    "zip": "60661",
+    "acres": 1.11,
+    "ward": 42,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.87964662798276,
+    "lon": -87.64344579993433
+  },
+  {
+    "id": "1008",
+    "name": "HERMITAGE",
+    "address": "5839 S WOOD ST",
+    "zip": "60636",
+    "acres": 4.36,
+    "ward": 15,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.7871048017436,
+    "lon": -87.66798682159379
+  },
+  {
+    "id": "125",
+    "name": "HERMOSA",
+    "address": "2240 N KILBOURN AVE",
+    "zip": "60639",
+    "acres": 4.9,
+    "ward": 36,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.92199362494403,
+    "lon": -87.7396460660275
+  },
+  {
+    "id": "229",
+    "name": "HIAWATHA",
+    "address": "8029 W FOREST PRESERVE AVE",
+    "zip": "60634",
+    "acres": 14.04,
+    "ward": 38,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2
+    },
+    "lat": 41.94387533642662,
+    "lon": -87.82624555650978
+  },
+  {
+    "id": "299",
+    "name": "HICKORY",
+    "address": "4834 N WINTHROP AVE",
+    "zip": "60640",
+    "acres": 0.25,
+    "ward": 46,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.9701669813992,
+    "lon": -87.65785019810119
+  },
+  {
+    "id": "387",
+    "name": "HOARD (EDISON)",
+    "address": "7221 S DOBSON AVE",
+    "zip": "60619",
+    "acres": 2.72,
+    "ward": 5,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.76404536717999,
+    "lon": -87.59925518883826
+  },
+  {
+    "id": "1216",
+    "name": "HODES (BARNET)",
+    "address": "1607 E 73RD ST",
+    "zip": "60649",
+    "acres": 0.57,
+    "ward": 8,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.7623425014787,
+    "lon": -87.58567335986847
+  },
+  {
+    "id": "325",
+    "name": "HOLLY",
+    "address": "4052 S ELLIS AVE",
+    "zip": "60653",
+    "acres": 0.46,
+    "ward": 4,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.82050433688568,
+    "lon": -87.60323787616274
+  },
+  {
+    "id": "75",
+    "name": "HOLLYWOOD",
+    "address": "3312 W THORNDALE AVE",
+    "zip": "60659",
+    "acres": 7.2,
+    "ward": 39,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 1
+    },
+    "lat": 41.98949571608441,
+    "lon": -87.71181429166614
+  },
+  {
+    "id": "203",
+    "name": "HOLSTEIN",
+    "address": "2200 N OAKLEY AVE",
+    "zip": "60647",
+    "acres": 3.28,
+    "ward": 32,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "outdoorPool": 1
+    },
+    "lat": 41.921873491543955,
+    "lon": -87.685085495477
+  },
+  {
+    "id": "1108",
+    "name": "HOMAN (JOSEPH)",
+    "address": "2148 S HOMAN AVE",
+    "zip": "60623",
+    "acres": 0.2,
+    "ward": 24,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.85223253736305,
+    "lon": -87.71031403448337
+  },
+  {
+    "id": "515",
+    "name": "HOMAN SQUARE COMMUNITY CENTER",
+    "address": "3517 W ARTHINGTON ST",
+    "zip": "60624",
+    "acres": 5.46,
+    "ward": 24,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.86944921874293,
+    "lon": -87.71381220063788
+  },
+  {
+    "id": "351",
+    "name": "HONEYSUCKLE",
+    "address": "4637 S CHAMPLAIN AVE",
+    "zip": "60653",
+    "acres": 0.25,
+    "ward": 4,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.81010920023063,
+    "lon": -87.6099722934701
+  },
+  {
+    "id": "1035",
+    "name": "HORAN (ALBERT)",
+    "address": "3035 W VAN BUREN ST",
+    "zip": "60612",
+    "acres": 3.22,
+    "ward": 28,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.87562054707424,
+    "lon": -87.70324081231139
+  },
+  {
+    "id": "353",
+    "name": "HORNBEAM",
+    "address": "1422 S HAMLIN AVE",
+    "zip": "60623",
+    "acres": 0.35,
+    "ward": 24,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.861917025517975,
+    "lon": -87.72035771916579
+  },
+  {
+    "id": "228",
+    "name": "HORNER (HENRY)",
+    "address": "2741 W MONTROSE AVE",
+    "zip": "60618",
+    "acres": 58.07,
+    "ward": 33,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 6
+    },
+    "lat": 41.957333969013916,
+    "lon": -87.69556646378207
+  },
+  {
+    "id": "278",
+    "name": "HOUSTON (JESSIE \"MA\")",
+    "address": "5001 S COTTAGE GROVE AVE",
+    "zip": "60615",
+    "acres": 3.96,
+    "ward": 4,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.8038181817028,
+    "lon": -87.60579590801851
+  },
+  {
+    "id": "1256",
+    "name": "HOWARD (URE) BEACH",
+    "address": "1300 W HOWARD ST",
+    "zip": "60626",
+    "acres": 1.06,
+    "ward": 49,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "beach": 1
+    },
+    "lat": 42.01894388942457,
+    "lon": -87.66397863035287
+  },
+  {
+    "id": "1036",
+    "name": "HOYNE (THOMAS)",
+    "address": "3417 S HAMILTON AVE",
+    "zip": "60608",
+    "acres": 2.38,
+    "ward": 12,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 6
+    },
+    "lat": 41.831771476614186,
+    "lon": -87.67842436638853
+  },
+  {
+    "id": "1109",
+    "name": "HUBBARD (GURDON)",
+    "address": "4950 W HUBBARD ST",
+    "zip": "60644",
+    "acres": 0.62,
+    "ward": 37,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.88890421128537,
+    "lon": -87.75023391082739
+  },
+  {
+    "id": "336",
+    "name": "HUCKLEBERRY",
+    "address": "6200 S KIMBARK AVE",
+    "zip": "60637",
+    "acres": 0.3,
+    "ward": 20,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.782281201994834,
+    "lon": -87.59521274520219
+  },
+  {
+    "id": "1121",
+    "name": "HUMBERT (JAMES)",
+    "address": "632 W 31ST ST",
+    "zip": "60616",
+    "acres": 0.42,
+    "ward": 11,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.83827368873085,
+    "lon": -87.64284897422468
+  },
+  {
+    "id": "219",
+    "name": "HUMBOLDT (BARON VON)",
+    "address": "1400 N HUMBOLDT DR",
+    "zip": "60622",
+    "acres": 210.85,
+    "ward": 26,
+    "parkClass": "CITYWIDE PARK",
+    "amenities": {
+      "playground": 5,
+      "basketball": 8,
+      "tennis": 4,
+      "beach": 1,
+      "outdoorPool": 1
+    },
+    "lat": 41.90392678392071,
+    "lon": -87.7026061291398
+  },
+  {
+    "id": "178",
+    "name": "HURLEY (TIMOTHY)",
+    "address": "1901 W 100TH ST",
+    "zip": "60643",
+    "acres": 1.54,
+    "ward": 19,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.71180949246575,
+    "lon": -87.66969366147114
+  },
+  {
+    "id": "83",
+    "name": "INDEPENDENCE",
+    "address": "3945 N SPRINGFIELD AVE",
+    "zip": "60618",
+    "acres": 8.82,
+    "ward": 45,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 4
+    },
+    "lat": 41.95279944246471,
+    "lon": -87.72379409160513
+  },
+  {
+    "id": "165",
+    "name": "INDIAN BOUNDARY",
+    "address": "2500 W LUNT AVE",
+    "zip": "60645",
+    "acres": 12.9,
+    "ward": 50,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 4
+    },
+    "lat": 42.00957205575785,
+    "lon": -87.69411365502013
+  },
+  {
+    "id": "1038",
+    "name": "INDIAN ROAD",
+    "address": "6010 W MATSON AVE",
+    "zip": "60646",
+    "acres": 3.5,
+    "ward": 39,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.99345951875892,
+    "lon": -87.778431733126
+  },
+  {
+    "id": "19",
+    "name": "JACKSON (ANDREW)",
+    "address": "6401 S STONY ISLAND AVE",
+    "zip": "60637",
+    "acres": 551.52,
+    "ward": 5,
+    "parkClass": "MAGNET PARK",
+    "amenities": {
+      "playground": 7,
+      "basketball": 8,
+      "tennis": 24,
+      "beach": 2
+    },
+    "lat": 41.783784967272965,
+    "lon": -87.5774257920907
+  },
+  {
+    "id": "386",
+    "name": "JACKSON (MAHALIA)",
+    "address": "8385 S BIRKHOFF AVE",
+    "zip": "60620",
+    "acres": 5.99,
+    "ward": 21,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "basketball": 8,
+      "tennis": 2
+    },
+    "lat": 41.742882920232574,
+    "lon": -87.6396116228267
+  },
+  {
+    "id": "1112",
+    "name": "JACKSON (ROBERT)",
+    "address": "4319 S INDIANA AVE",
+    "zip": "60653",
+    "acres": 0.27,
+    "ward": 3,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.81589097838881,
+    "lon": -87.62104142118491
+  },
+  {
+    "id": "156",
+    "name": "JACOB",
+    "address": "4674 N VIRGINIA AVE",
+    "zip": "60625",
+    "acres": 0.89,
+    "ward": 40,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.966357312654516,
+    "lon": -87.6977809992977
+  },
+  {
+    "id": "1288",
+    "name": "JACOLIK (FLORIAN S.)",
+    "address": "2731 S ELEANOR ST",
+    "zip": "60608",
+    "acres": 0.39,
+    "ward": 11,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.84381472623133,
+    "lon": -87.66121996343689
+  },
+  {
+    "id": "338",
+    "name": "JEFFERSON (NANCY)",
+    "address": "3111 W FULTON BLVD",
+    "zip": "60612",
+    "acres": 0.63,
+    "ward": 27,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.88619048644368,
+    "lon": -87.70405416895404
+  },
+  {
+    "id": "1113",
+    "name": "JEFFERSON (THOMAS)",
+    "address": "1630 S JEFFERSON ST",
+    "zip": "60616",
+    "acres": 1.98,
+    "ward": 0,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.859145169894006,
+    "lon": -87.64202223062269
+  },
+  {
+    "id": "94",
+    "name": "JEFFERSON (THOMAS) MEML.",
+    "address": "4822 N LONG AVE",
+    "zip": "60630",
+    "acres": 7.96,
+    "ward": 45,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 3,
+      "outdoorPool": 1
+    },
+    "lat": 41.968423969767876,
+    "lon": -87.76357625803821
+  },
+  {
+    "id": "82",
+    "name": "JENSEN (CHRIST)",
+    "address": "4600 N LAWNDALE AVE",
+    "zip": "60625",
+    "acres": 2.8,
+    "ward": 35,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.965615140713666,
+    "lon": -87.72104081401983
+  },
+  {
+    "id": "479",
+    "name": "JONES (MARY RICHARDSON)",
+    "address": "1240 S PLYMOUTH CT",
+    "zip": "60616",
+    "acres": 1.3,
+    "ward": 3,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.86594298620557,
+    "lon": -87.62890508475897
+  },
+  {
+    "id": "1270",
+    "name": "JONQUIL",
+    "address": "1023 W WRIGHTWOOD AVE",
+    "zip": "60614",
+    "acres": 3.27,
+    "ward": 43,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2
+    },
+    "lat": 41.928560041253945,
+    "lon": -87.6546412143379
+  },
+  {
+    "id": "415",
+    "name": "JUNCTION GROVE",
+    "address": "345 W 64TH ST",
+    "zip": "60621",
+    "acres": 0.25,
+    "ward": 20,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.77789359853226,
+    "lon": -87.63429289544356
+  },
+  {
+    "id": "1258",
+    "name": "JUNEWAY BEACH",
+    "address": "7751 N EASTLAKE TER",
+    "zip": "60626",
+    "acres": 1.02,
+    "ward": 49,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "beach": 1
+    },
+    "lat": 42.022561800247686,
+    "lon": -87.66527641331795
+  },
+  {
+    "id": "392",
+    "name": "JUNIPER",
+    "address": "3656 N GREENVIEW AVE",
+    "zip": "60613",
+    "acres": 0.37,
+    "ward": 44,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.94868622494775,
+    "lon": -87.66672986740458
+  },
+  {
+    "id": "1039",
+    "name": "KEDVALE",
+    "address": "4140 W HIRSCH ST",
+    "zip": "60651",
+    "acres": 1.68,
+    "ward": 26,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.90681774144756,
+    "lon": -87.73007391088291
+  },
+  {
+    "id": "1114",
+    "name": "KEELER (CYRUS)",
+    "address": "1243 S KEELER AVE",
+    "zip": "60623",
+    "acres": 0.07,
+    "ward": 24,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.86481277766831,
+    "lon": -87.72981672031032
+  },
+  {
+    "id": "1040",
+    "name": "KELLS (GEORGE)",
+    "address": "3201 W CHICAGO AVE",
+    "zip": "60624",
+    "acres": 1.93,
+    "ward": 27,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.89515155764496,
+    "lon": -87.70704283468177
+  },
+  {
+    "id": "260",
+    "name": "KELLY (EDWARD)",
+    "address": "2725 W 41ST ST",
+    "zip": "60632",
+    "acres": 7.28,
+    "ward": 12,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.81847836519209,
+    "lon": -87.69287807374741
+  },
+  {
+    "id": "493",
+    "name": "KELLY (JOHN)",
+    "address": "3800 N SEMINARY AVE",
+    "zip": "60613",
+    "acres": 1.39,
+    "ward": 44,
+    "parkClass": "LINEAR PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.95240549455225,
+    "lon": -87.65692133768755
+  },
+  {
+    "id": "126",
+    "name": "KELVYN (WILLIAM)",
+    "address": "4438 W WRIGHTWOOD AVE",
+    "zip": "60639",
+    "acres": 9.92,
+    "ward": 31,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 2
+    },
+    "lat": 41.929568968097854,
+    "lon": -87.73794493266784
+  },
+  {
+    "id": "1115",
+    "name": "KENMORE",
+    "address": "3141 N KENMORE AVE",
+    "zip": "60657",
+    "acres": 0.16,
+    "ward": 44,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.93932728694005,
+    "lon": -87.65496881235633
+  },
+  {
+    "id": "48",
+    "name": "KENNEDY (DENNIS)",
+    "address": "11320 S WESTERN AVE",
+    "zip": "60655",
+    "acres": 18.48,
+    "ward": 19,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.687151217549456,
+    "lon": -87.68268066251068
+  },
+  {
+    "id": "485",
+    "name": "KENNICOTT (JONATHAN)",
+    "address": "4434 S LAKE PARK AVE",
+    "zip": "60653",
+    "acres": 2.89,
+    "ward": 4,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.81394289674206,
+    "lon": -87.59769978443964
+  },
+  {
+    "id": "1041",
+    "name": "KENSINGTON",
+    "address": "345 E 118TH ST",
+    "zip": "60628",
+    "acres": 4.88,
+    "ward": 9,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.67953236986194,
+    "lon": -87.61519164520827
+  },
+  {
+    "id": "1042",
+    "name": "KEN-WELL",
+    "address": "2945 N KENOSHA AVE",
+    "zip": "60641",
+    "acres": 2.94,
+    "ward": 31,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.93459128961941,
+    "lon": -87.73352685202516
+  },
+  {
+    "id": "1010",
+    "name": "KENWOOD COMM.",
+    "address": "1330 E 50TH ST",
+    "zip": "60615",
+    "acres": 7.08,
+    "ward": 4,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2
+    },
+    "lat": 41.805145906823526,
+    "lon": -87.59240197906696
+  },
+  {
+    "id": "1116",
+    "name": "KEYSTONE",
+    "address": "1655 N KEYSTONE AVE",
+    "zip": "60639",
+    "acres": 0.26,
+    "ward": 26,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.91157285147268,
+    "lon": -87.72727445496659
+  },
+  {
+    "id": "84",
+    "name": "KILBOURN",
+    "address": "3501 N KILBOURN AVE",
+    "zip": "60641",
+    "acres": 12.08,
+    "ward": 30,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 4
+    },
+    "lat": 41.94393574991277,
+    "lon": -87.73879772929448
+  },
+  {
+    "id": "334",
+    "name": "KING (MARTIN LUTHER, JR.)",
+    "address": "1219 W 76TH ST",
+    "zip": "60620",
+    "acres": 6.84,
+    "ward": 17,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.75529062542316,
+    "lon": -87.65450374808016
+  },
+  {
+    "id": "558",
+    "name": "KING (PATRICK)-LOCKHART (ANTHONY)",
+    "address": "10609-15 S WESTERN AVE",
+    "zip": "60643",
+    "acres": 0.56,
+    "ward": 19,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.70025489897793,
+    "lon": -87.68113123559768
+  },
+  {
+    "id": "1217",
+    "name": "KINZIE (JOHN) PKWY.",
+    "address": "5200 W KINZIE ST",
+    "zip": "60644",
+    "acres": 0.96,
+    "ward": 37,
+    "parkClass": "LINEAR PARK",
+    "amenities": {},
+    "lat": 41.88784560348705,
+    "lon": -87.75794878934329
+  },
+  {
+    "id": "42",
+    "name": "KIWANIS",
+    "address": "3315 W CARMEN AVE",
+    "zip": "60625",
+    "acres": 1.55,
+    "ward": 39,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.97313542348545,
+    "lon": -87.71184165924558
+  },
+  {
+    "id": "544",
+    "name": "KLEIN (LOIS)",
+    "address": "3538-40 N LINCOLN AVE",
+    "zip": "60657",
+    "acres": 0.38,
+    "ward": 47,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.946349672342095,
+    "lon": -87.67355537537863
+  },
+  {
+    "id": "85",
+    "name": "KOLMAR",
+    "address": "4143 N KOLMAR AVE",
+    "zip": "60641",
+    "acres": 1.03,
+    "ward": 45,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.95677113094858,
+    "lon": -87.74162177197887
+  },
+  {
+    "id": "1090",
+    "name": "KORCZAK (JANUSZ)",
+    "address": "6156 N CLAREMONT AVE",
+    "zip": "60659",
+    "acres": 0.28,
+    "ward": 40,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.993998690708686,
+    "lon": -87.68885607177819
+  },
+  {
+    "id": "120",
+    "name": "KOSCIUSZKO (THADEUZ)",
+    "address": "2732 N AVERS AVE",
+    "zip": "60647",
+    "acres": 9.01,
+    "ward": 31,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 1
+    },
+    "lat": 41.930972524672654,
+    "lon": -87.72442422543689
+  },
+  {
+    "id": "1079",
+    "name": "KRAUSE (FRANCIS VERNON)",
+    "address": "10558 S AVENUE L",
+    "zip": "60617",
+    "acres": 0.18,
+    "ward": 10,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.70283327712908,
+    "lon": -87.53660805673695
+  },
+  {
+    "id": "1062",
+    "name": "KUCINSKI-MURPHY (VICKI, ROSEBETH)",
+    "address": "1635 W 33RD PL",
+    "zip": "60608",
+    "acres": 0.74,
+    "ward": 12,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.83317842093869,
+    "lon": -87.66629840895541
+  },
+  {
+    "id": "372",
+    "name": "KUJAWA (CHESTER FRANK)",
+    "address": "4330 S KEDVALE AVE",
+    "zip": "60632",
+    "acres": 0.49,
+    "ward": 14,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.81418778448443,
+    "lon": -87.72768078892847
+  },
+  {
+    "id": "201",
+    "name": "LA FOLLETTE (ROBERT)",
+    "address": "1333 N LARAMIE AVE",
+    "zip": "60651",
+    "acres": 18.8,
+    "ward": 37,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 2,
+      "basketball": 2,
+      "tennis": 1
+    },
+    "lat": 41.9050858108275,
+    "lon": -87.7534261416628
+  },
+  {
+    "id": "263",
+    "name": "LAKE MEADOWS",
+    "address": "3113 S RHODES AVE",
+    "zip": "60616",
+    "acres": 7.97,
+    "ward": 4,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.837449762628026,
+    "lon": -87.61214755814147
+  },
+  {
+    "id": "107",
+    "name": "LAKE SHORE",
+    "address": "254 E CHICAGO AVE",
+    "zip": "60611",
+    "acres": 7.2,
+    "ward": 2,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2
+    },
+    "lat": 41.897289761760135,
+    "lon": -87.61896643330621
+  },
+  {
+    "id": "446",
+    "name": "LAMB (HAROLD)",
+    "address": "1400 W 109TH ST",
+    "zip": "60643",
+    "acres": 0.97,
+    "ward": 34,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.69626258435515,
+    "lon": -87.65750178576275
+  },
+  {
+    "id": "1265",
+    "name": "LANE (GEORGE) BEACH",
+    "address": "1000 W THORNDALE AVE",
+    "zip": "60660",
+    "acres": 2.9,
+    "ward": 48,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {
+      "playground": 1,
+      "beach": 1
+    },
+    "lat": 41.98961877505951,
+    "lon": -87.65423871017148
+  },
+  {
+    "id": "1077",
+    "name": "LANGDON (MARY MARGARET)",
+    "address": "1754 W ALBION AVE",
+    "zip": "60626",
+    "acres": 0.44,
+    "ward": 49,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 42.00187615293695,
+    "lon": -87.67493657418642
+  },
+  {
+    "id": "1118",
+    "name": "LANGLEY",
+    "address": "700 E 113TH ST",
+    "zip": "60628",
+    "acres": 1.19,
+    "ward": 9,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.689717568277636,
+    "lon": -87.605644271956
+  },
+  {
+    "id": "553",
+    "name": "LA VILLITA",
+    "address": "2800 S SACRAMENTO AVE",
+    "zip": "60608",
+    "acres": 22.77,
+    "ward": 12,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 12,
+      "skatePark": 1
+    },
+    "lat": 41.8399252154344,
+    "lon": -87.70228652658027
+  },
+  {
+    "id": "1011",
+    "name": "LAWLER (MICHAEL)",
+    "address": "5210 W 64TH ST",
+    "zip": "60638",
+    "acres": 4.82,
+    "ward": 13,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 6
+    },
+    "lat": 41.77672866696006,
+    "lon": -87.75122810453756
+  },
+  {
+    "id": "450",
+    "name": "LAZARUS (EMMA)",
+    "address": "1257 W COLUMBIA AVE",
+    "zip": "60626",
+    "acres": 0.18,
+    "ward": 49,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 42.00431616280647,
+    "lon": -87.66319256227635
+  },
+  {
+    "id": "305",
+    "name": "LE CLAIRE COURTS - HEARST COMM. CTR",
+    "address": "5116 W 44TH ST",
+    "zip": "60638",
+    "acres": 12.56,
+    "ward": 22,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 2
+    },
+    "lat": 41.81279689639256,
+    "lon": -87.7506803241094
+  },
+  {
+    "id": "1286",
+    "name": "LEE (JOHN)",
+    "address": "3700 W 87TH ST",
+    "zip": "60652",
+    "acres": 0.34,
+    "ward": 18,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.73521372781572,
+    "lon": -87.71435118273492
+  },
+  {
+    "id": "274",
+    "name": "LEGION",
+    "address": "3100 W BRYN MAWR AVE",
+    "zip": "60659",
+    "acres": 48.44,
+    "ward": 0,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 4,
+      "basketball": 4,
+      "tennis": 2
+    },
+    "lat": 41.98443641993477,
+    "lon": -87.70687972182273
+  },
+  {
+    "id": "395",
+    "name": "LELAND GIANTS",
+    "address": "7526 S LOWE AVE",
+    "zip": "60621",
+    "acres": 2.08,
+    "ward": 6,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.757030276521995,
+    "lon": -87.64110897129017
+  },
+  {
+    "id": "1013",
+    "name": "LEONE (SAM) BEACH",
+    "address": "1222 W TOUHY AVE",
+    "zip": "60626",
+    "acres": 2.74,
+    "ward": 49,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "beach": 1
+    },
+    "lat": 42.01304332044027,
+    "lon": -87.66219941466619
+  },
+  {
+    "id": "273",
+    "name": "LERNER (LEO)",
+    "address": "7000 N SACRAMENTO AVE",
+    "zip": "60645",
+    "acres": 8.53,
+    "ward": 50,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2
+    },
+    "lat": 42.007540742606004,
+    "lon": -87.70532342829198
+  },
+  {
+    "id": "1220",
+    "name": "LEVIN (JOHN)",
+    "address": "462 N PINE AVE",
+    "zip": "60644",
+    "acres": 7.04,
+    "ward": 37,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.888420823238945,
+    "lon": -87.76186975141593
+  },
+  {
+    "id": "1218",
+    "name": "LILY GARDENS",
+    "address": "632 W 71ST ST",
+    "zip": "60621",
+    "acres": 2.82,
+    "ward": 6,
+    "parkClass": "LINEAR PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.76305108536689,
+    "lon": -87.63981507964047
+  },
+  {
+    "id": "1066",
+    "name": "LIMAS (JULIANN HOPE)",
+    "address": "2410 S TRUMBULL AVE",
+    "zip": "60623",
+    "acres": 0.49,
+    "ward": 22,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.84752598098655,
+    "lon": -87.71145281732686
+  },
+  {
+    "id": "100",
+    "name": "LINCOLN (ABRAHAM)",
+    "address": "200 W FULLERTON PKWY",
+    "zip": "60614",
+    "acres": 1209.98,
+    "ward": 0,
+    "parkClass": "MAGNET PARK",
+    "amenities": {
+      "playground": 10,
+      "dogFriendly": 5,
+      "basketball": 6,
+      "tennis": 30,
+      "beach": 6,
+      "skatePark": 1
+    },
+    "lat": 41.94719043339064,
+    "lon": -87.63938632809484
+  },
+  {
+    "id": "243",
+    "name": "LINDBLOM (ROBERT)",
+    "address": "6054 S DAMEN AVE",
+    "zip": "60636",
+    "acres": 17.66,
+    "ward": 16,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.784108244707106,
+    "lon": -87.67492858166403
+  },
+  {
+    "id": "308",
+    "name": "LINDEN",
+    "address": "1139 N PULASKI RD",
+    "zip": "60651",
+    "acres": 0.53,
+    "ward": 37,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.902022600967825,
+    "lon": -87.7260969685625
+  },
+  {
+    "id": "360",
+    "name": "LIN (MARGARET HIE DING)",
+    "address": "1735 S STATE ST",
+    "zip": "60616",
+    "acres": 0.51,
+    "ward": 3,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "basketball": 2
+    },
+    "lat": 41.85806677198068,
+    "lon": -87.62677895405542
+  },
+  {
+    "id": "1055",
+    "name": "LITTLE VENICE",
+    "address": "2251 W 50TH PL",
+    "zip": "60609",
+    "acres": 0.96,
+    "ward": 15,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.80168954202196,
+    "lon": -87.68147303132207
+  },
+  {
+    "id": "510",
+    "name": "LIVINGSTON FIELD",
+    "address": "2139-59 W. LEXINGTON ST",
+    "zip": "60612",
+    "acres": 2.63,
+    "ward": 28,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.872057426642634,
+    "lon": -87.68124355205406
+  },
+  {
+    "id": "549",
+    "name": "LOGAN SQUARE SKATE PARK",
+    "address": "2430 W LOGAN BLVD",
+    "zip": "60647",
+    "acres": 1.61,
+    "ward": 32,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "skatePark": 1
+    },
+    "lat": 41.928626590564534,
+    "lon": -87.68908918944742
+  },
+  {
+    "id": "1120",
+    "name": "LONDON (LOUIS)",
+    "address": "3432 W 18TH ST",
+    "zip": "60623",
+    "acres": 0.18,
+    "ward": 24,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.85730280977585,
+    "lon": -87.71171308009589
+  },
+  {
+    "id": "1044",
+    "name": "LOWE (SAMUEL)",
+    "address": "5203 S LOWE AVE",
+    "zip": "60609",
+    "acres": 4.42,
+    "ward": 3,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.79923047156883,
+    "lon": -87.64091508640234
+  },
+  {
+    "id": "115",
+    "name": "LOYOLA",
+    "address": "1230 W GREENLEAF AVE",
+    "zip": "60626",
+    "acres": 40.54,
+    "ward": 49,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 4,
+      "beach": 1
+    },
+    "lat": 42.00990106635817,
+    "lon": -87.6598373193708
+  },
+  {
+    "id": "1122",
+    "name": "LUELLA",
+    "address": "10021 S LUELLA AVE",
+    "zip": "60617",
+    "acres": 1.38,
+    "ward": 7,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.71271615019761,
+    "lon": -87.56756294394263
+  },
+  {
+    "id": "440",
+    "name": "LUNA",
+    "address": "5558 S GREEN ST",
+    "zip": "60621",
+    "acres": 0.23,
+    "ward": 20,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.79257578114813,
+    "lon": -87.64658229173972
+  },
+  {
+    "id": "1123",
+    "name": "LUNT (ORRINGTON, STEPHEN)",
+    "address": "2239 W LUNT AVE",
+    "zip": "60645",
+    "acres": 0.2,
+    "ward": 50,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 42.008476927498556,
+    "lon": -87.68748920226633
+  },
+  {
+    "id": "1267",
+    "name": "LYLE (JOHN)",
+    "address": "7700 S WALLACE ST",
+    "zip": "60620",
+    "acres": 1.74,
+    "ward": 0,
+    "parkClass": "LINEAR PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.75316772210978,
+    "lon": -87.6397400860213
+  },
+  {
+    "id": "484",
+    "name": "MADIGAN (MICHAEL J., SR.)",
+    "address": "4701 W MARQUETTE RD",
+    "zip": "60638",
+    "acres": 12.75,
+    "ward": 13,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {},
+    "lat": 41.77009096712426,
+    "lon": -87.73876180879765
+  },
+  {
+    "id": "333",
+    "name": "MAGNOLIA",
+    "address": "3228 W FLOURNOY ST",
+    "zip": "60624",
+    "acres": 0.24,
+    "ward": 24,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.87293499994354,
+    "lon": -87.70702618257343
+  },
+  {
+    "id": "548",
+    "name": "MAJOR TAYLOR BIKE TRAIL",
+    "address": "",
+    "zip": "",
+    "acres": 34.28,
+    "ward": 0,
+    "parkClass": "LINEAR PARK",
+    "amenities": {},
+    "lat": 41.679439275517765,
+    "lon": -87.64253588114101
+  },
+  {
+    "id": "394",
+    "name": "MALUS",
+    "address": "5426 S SHIELDS AVE",
+    "zip": "60609",
+    "acres": 0.61,
+    "ward": 3,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.79550068137711,
+    "lon": -87.63464675965464
+  },
+  {
+    "id": "504",
+    "name": "MANDRAKE (HENRY BROWN)",
+    "address": "900 E PERSHING RD.",
+    "zip": "60653",
+    "acres": 10.01,
+    "ward": 4,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 2
+    },
+    "lat": 41.823466759702555,
+    "lon": -87.60651620803003
+  },
+  {
+    "id": "17",
+    "name": "MANN (JAMES)",
+    "address": "3035 E 130TH ST",
+    "zip": "60633",
+    "acres": 18.86,
+    "ward": 10,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 4
+    },
+    "lat": 41.65736588360734,
+    "lon": -87.55079988018339
+  },
+  {
+    "id": "1283",
+    "name": "MAPLE",
+    "address": "2047 N SPAULDING AVE",
+    "zip": "60647",
+    "acres": 0.17,
+    "ward": 26,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.91874802109274,
+    "lon": -87.71002185452149
+  },
+  {
+    "id": "1045",
+    "name": "MAPLEWOOD",
+    "address": "1640 N MAPLEWOOD AVE",
+    "zip": "60647",
+    "acres": 1.32,
+    "ward": 1,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.911627235202275,
+    "lon": -87.69110054497278
+  },
+  {
+    "id": "1239",
+    "name": "MARIANO (LOUIS)",
+    "address": "1031 N RUSH ST",
+    "zip": "60611",
+    "acres": 0.18,
+    "ward": 42,
+    "parkClass": "PARKWAY PARK",
+    "amenities": {},
+    "lat": 41.901803752460005,
+    "lon": -87.62815663039264
+  },
+  {
+    "id": "10",
+    "name": "MARQUETTE (JACQUES)",
+    "address": "6734 S KEDZIE AVE",
+    "zip": "60629",
+    "acres": 315.63,
+    "ward": 17,
+    "parkClass": "CITYWIDE PARK",
+    "amenities": {
+      "playground": 2,
+      "basketball": 8,
+      "tennis": 14
+    },
+    "lat": 41.76807604812873,
+    "lon": -87.70374528371312
+  },
+  {
+    "id": "1046",
+    "name": "MARSHFIELD",
+    "address": "1637 W 87TH ST",
+    "zip": "60620",
+    "acres": 0.96,
+    "ward": 21,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.735534280520575,
+    "lon": -87.66489724846512
+  },
+  {
+    "id": "447",
+    "name": "MARTIN (JOHNNY)",
+    "address": "922 W FLETCHER ST",
+    "zip": "60657",
+    "acres": 0.15,
+    "ward": 44,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.93913722310021,
+    "lon": -87.65265401436923
+  },
+  {
+    "id": "1164",
+    "name": "MASON (ELIZABETH)",
+    "address": "4100 W WEST END AVE",
+    "zip": "60624",
+    "acres": 0.98,
+    "ward": 28,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.884158057752735,
+    "lon": -87.72845612376022
+  },
+  {
+    "id": "168",
+    "name": "MATANKY (EUGENE)",
+    "address": "6937 N RIDGE BLVD",
+    "zip": "60626",
+    "acres": 0.52,
+    "ward": 49,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 42.00748477025362,
+    "lon": -87.68079189234042
+  },
+  {
+    "id": "241",
+    "name": "MATHER (STEPHEN TYNG)",
+    "address": "5835 N LINCOLN AVE",
+    "zip": "60659",
+    "acres": 14.87,
+    "ward": 40,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 6
+    },
+    "lat": 41.989306491814084,
+    "lon": -87.70171150861815
+  },
+  {
+    "id": "86",
+    "name": "MAYFAIR",
+    "address": "4550 W SUNNYSIDE AVE",
+    "zip": "60630",
+    "acres": 3,
+    "ward": 39,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.96296800857542,
+    "lon": -87.74210775723627
+  },
+  {
+    "id": "2",
+    "name": "MCGUANE (JOHN)",
+    "address": "2901 S POPLAR AVE",
+    "zip": "60608",
+    "acres": 10.3,
+    "ward": 11,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 5
+    },
+    "lat": 41.841423592130155,
+    "lon": -87.64816436981327
+  },
+  {
+    "id": "443",
+    "name": "MCINERNEY (THOMAS)",
+    "address": "4446-58 S. EMERALD AVE",
+    "zip": "60609",
+    "acres": 1.44,
+    "ward": 11,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.8132220674144,
+    "lon": -87.64497468864553
+  },
+  {
+    "id": "1162",
+    "name": "MCKEON (JOSEPH)",
+    "address": "600 W 36TH ST",
+    "zip": "60609",
+    "acres": 0.49,
+    "ward": 11,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.82913612792586,
+    "lon": -87.64144696695399
+  },
+  {
+    "id": "1060",
+    "name": "MCKIERNAN (DAVID)",
+    "address": "10714 S SAWYER AVE",
+    "zip": "60655",
+    "acres": 2.18,
+    "ward": 19,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.69869041155617,
+    "lon": -87.70327380549573
+  },
+  {
+    "id": "23",
+    "name": "MCKINLEY (WILLIAM)",
+    "address": "2210 W PERSHING RD",
+    "zip": "60609",
+    "acres": 72.09,
+    "ward": 12,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 6,
+      "tennis": 10,
+      "outdoorPool": 1
+    },
+    "lat": 41.82532378391847,
+    "lon": -87.67920741213825
+  },
+  {
+    "id": "1219",
+    "name": "MELLIN (CURTIS, SR.)",
+    "address": "1600 W BRYN MAWR AVE",
+    "zip": "60640",
+    "acres": 0.28,
+    "ward": 40,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.98331167799577,
+    "lon": -87.66956006679311
+  },
+  {
+    "id": "1048",
+    "name": "MEMORIAL",
+    "address": "149 W 73RD ST",
+    "zip": "60621",
+    "acres": 2.99,
+    "ward": 6,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.76125426217844,
+    "lon": -87.62922757230538
+  },
+  {
+    "id": "1126",
+    "name": "MERRILL (GEORGE)",
+    "address": "2131 E 96TH ST",
+    "zip": "60617",
+    "acres": 3.16,
+    "ward": 7,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.719819406557605,
+    "lon": -87.571918539159
+  },
+  {
+    "id": "256",
+    "name": "MERRIMAC",
+    "address": "6343 W IRVING PARK RD",
+    "zip": "60634",
+    "acres": 9.45,
+    "ward": 38,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.95201907185515,
+    "lon": -87.78542446392287
+  },
+  {
+    "id": "1124",
+    "name": "MERRYMAN (THERON)",
+    "address": "3736 N MARSHFIELD AVE",
+    "zip": "60613",
+    "acres": 0.21,
+    "ward": 47,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.950012112841364,
+    "lon": -87.67035925204033
+  },
+  {
+    "id": "448",
+    "name": "METCALFE (RALPH)",
+    "address": "4196 S STATE ST",
+    "zip": "60609",
+    "acres": 6.73,
+    "ward": 3,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 8,
+      "tennis": 2
+    },
+    "lat": 41.81684631031898,
+    "lon": -87.6265264014987
+  },
+  {
+    "id": "1049",
+    "name": "MEYERING (WILLIAM)",
+    "address": "7140 S DR MARTIN LUTHER KING J",
+    "zip": "60619",
+    "acres": 3.1,
+    "ward": 6,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.764414241826266,
+    "lon": -87.61605176647525
+  },
+  {
+    "id": "453",
+    "name": "MIAMI",
+    "address": "2754 S TRUMBULL AVE",
+    "zip": "60623",
+    "acres": 0.22,
+    "ward": 22,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.840887880967095,
+    "lon": -87.71128428441398
+  },
+  {
+    "id": "1028",
+    "name": "MICEK (FRANK)",
+    "address": "5311 S HAMILTON AVE",
+    "zip": "60609",
+    "acres": 1.26,
+    "ward": 16,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.797179608768246,
+    "lon": -87.67801063251115
+  },
+  {
+    "id": "1206",
+    "name": "MID-NORTH",
+    "address": "401 W BELDEN AVE",
+    "zip": "60614",
+    "acres": 0.14,
+    "ward": 43,
+    "parkClass": "PARKWAY PARK",
+    "amenities": {},
+    "lat": 41.92360580506211,
+    "lon": -87.6390461820465
+  },
+  {
+    "id": "1268",
+    "name": "MIDWAY PLAISANCE",
+    "address": "5950 S WOODLAWN AVE",
+    "zip": "60637",
+    "acres": 72.5,
+    "ward": 5,
+    "parkClass": "LINEAR PARK",
+    "amenities": {},
+    "lat": 41.786811581980444,
+    "lon": -87.59667043281631
+  },
+  {
+    "id": "1127",
+    "name": "MILLARD (ALDEN)",
+    "address": "1331 S MILLARD AVE",
+    "zip": "60623",
+    "acres": 0.16,
+    "ward": 24,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "basketball": 2
+    },
+    "lat": 41.86357569156681,
+    "lon": -87.71628210827949
+  },
+  {
+    "id": "1128",
+    "name": "MILLER (SAMUEL)",
+    "address": "848 S MILLER ST",
+    "zip": "60607",
+    "acres": 0.13,
+    "ward": 25,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.87048699743433,
+    "lon": -87.65241888438749
+  },
+  {
+    "id": "307",
+    "name": "MINUTEMAN",
+    "address": "5940 S CENTRAL AVE",
+    "zip": "60638",
+    "acres": 8.97,
+    "ward": 0,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 8,
+      "tennis": 2
+    },
+    "lat": 41.785071234395055,
+    "lon": -87.76415115791816
+  },
+  {
+    "id": "337",
+    "name": "MOCCASIN RANCH",
+    "address": "6446 S KIMBARK AVE",
+    "zip": "60637",
+    "acres": 0.2,
+    "ward": 20,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.77733416540381,
+    "lon": -87.59487422103878
+  },
+  {
+    "id": "1129",
+    "name": "MONTGOMERY (MABEL)",
+    "address": "2632 W 66TH ST",
+    "zip": "60629",
+    "acres": 0.38,
+    "ward": 17,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.77362731102049,
+    "lon": -87.68948031115828
+  },
+  {
+    "id": "1130",
+    "name": "MONTICELLO",
+    "address": "1814 N MONTICELLO AVE",
+    "zip": "60647",
+    "acres": 0.41,
+    "ward": 1,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.91418230608266,
+    "lon": -87.71808799103998
+  },
+  {
+    "id": "57",
+    "name": "MONUMENT",
+    "address": "6700 N AVONDALE AVE",
+    "zip": "60631",
+    "acres": 1.61,
+    "ward": 41,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 42.00168776186359,
+    "lon": -87.81807136898712
+  },
+  {
+    "id": "1050",
+    "name": "MOORE (MAURICE)",
+    "address": "5085 W ADAMS ST",
+    "zip": "60644",
+    "acres": 3.74,
+    "ward": 28,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.878081974625545,
+    "lon": -87.7524439172847
+  },
+  {
+    "id": "1051",
+    "name": "MORAN (TERRANCE)",
+    "address": "5727 S RACINE AVE",
+    "zip": "60621",
+    "acres": 1.94,
+    "ward": 16,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.78963200629307,
+    "lon": -87.65444319708575
+  },
+  {
+    "id": "577",
+    "name": "MORGAN PARK SPORTS CENTER",
+    "address": "11505 S. WESTERN AV",
+    "zip": "60643",
+    "acres": 2.63,
+    "ward": 19,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {},
+    "lat": 41.68418588894404,
+    "lon": -87.68032900673126
+  },
+  {
+    "id": "1132",
+    "name": "MORGAN (THOMAS LEEDS) FIELD",
+    "address": "11710 S MORGAN ST",
+    "zip": "60643",
+    "acres": 3.22,
+    "ward": 34,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 6
+    },
+    "lat": 41.68190023695222,
+    "lon": -87.64727090043817
+  },
+  {
+    "id": "251",
+    "name": "MOUNT GREENWOOD",
+    "address": "3724 W 111TH ST",
+    "zip": "60655",
+    "acres": 52.63,
+    "ward": 19,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 4,
+      "outdoorPool": 1
+    },
+    "lat": 41.68761977857828,
+    "lon": -87.71495298602525
+  },
+  {
+    "id": "128",
+    "name": "MOZART (AMADEUS)",
+    "address": "2036 N AVERS AVE",
+    "zip": "60647",
+    "acres": 4.91,
+    "ward": 26,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.91781732829342,
+    "lon": -87.72306385748912
+  },
+  {
+    "id": "1284",
+    "name": "MULBERRY",
+    "address": "3150 S ROBINSON CT",
+    "zip": "60608",
+    "acres": 0.68,
+    "ward": 12,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.83618778501709,
+    "lon": -87.66634634440639
+  },
+  {
+    "id": "1222",
+    "name": "MULBERRY POINT",
+    "address": "5873 N NINA AVE",
+    "zip": "60631",
+    "acres": 0.07,
+    "ward": 41,
+    "parkClass": "PARKWAY PARK",
+    "amenities": {},
+    "lat": 41.988092509113464,
+    "lon": -87.80272495420164
+  },
+  {
+    "id": "1052",
+    "name": "MUNROE",
+    "address": "2617 W 105TH ST",
+    "zip": "60655",
+    "acres": 5.69,
+    "ward": 19,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.70145239218926,
+    "lon": -87.68653605146095
+  },
+  {
+    "id": "1053",
+    "name": "MURRAY (DAVID)",
+    "address": "1743 W 73RD ST",
+    "zip": "60636",
+    "acres": 3.51,
+    "ward": 17,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.7604259490361,
+    "lon": -87.66800201713713
+  },
+  {
+    "id": "1223",
+    "name": "MYRTLE GROVE",
+    "address": "6113 N NEVA AVE",
+    "zip": "60631",
+    "acres": 1.72,
+    "ward": 41,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.99274666957233,
+    "lon": -87.8049699527473
+  },
+  {
+    "id": "482",
+    "name": "NASH (DON) COMM. CTR.",
+    "address": "1833 E 71ST ST",
+    "zip": "60649",
+    "acres": 1.14,
+    "ward": 7,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.765815634597196,
+    "lon": -87.57994212506051
+  },
+  {
+    "id": "433",
+    "name": "NEIGHBORS' GARDEN",
+    "address": "2533 N SACRAMENTO AVE",
+    "zip": "60647",
+    "acres": 0.16,
+    "ward": 32,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.92764393681162,
+    "lon": -87.70219867206076
+  },
+  {
+    "id": "1133",
+    "name": "NELSON (ANDREW)",
+    "address": "2953 W NELSON ST",
+    "zip": "60618",
+    "acres": 0.15,
+    "ward": 33,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.937192925689665,
+    "lon": -87.70195074846478
+  },
+  {
+    "id": "277",
+    "name": "NICHOLS (JOHN FOUNTAIN)",
+    "address": "1342 E 54TH ST",
+    "zip": "60615",
+    "acres": 11.47,
+    "ward": 4,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 2,
+      "tennis": 2
+    },
+    "lat": 41.79771427725744,
+    "lon": -87.59424997337274
+  },
+  {
+    "id": "355",
+    "name": "NINEBARK",
+    "address": "1447-1453 S HARDING AVE",
+    "zip": "60623",
+    "acres": 0.25,
+    "ward": 24,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.86110804335278,
+    "lon": -87.72355371114682
+  },
+  {
+    "id": "425",
+    "name": "NOETHLING (GRACE)",
+    "address": "2645 N SHEFFIELD AVE",
+    "zip": "60614",
+    "acres": 0.58,
+    "ward": 43,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "dogFriendly": 1
+    },
+    "lat": 41.930587913791506,
+    "lon": -87.65342186503554
+  },
+  {
+    "id": "1054",
+    "name": "NORMANDY",
+    "address": "6660 W 52ND ST",
+    "zip": "60638",
+    "acres": 2.89,
+    "ward": 14,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.79842323951041,
+    "lon": -87.78873530257366
+  },
+  {
+    "id": "557",
+    "name": "NORTH BOUNDARY",
+    "address": "7211-7355 N KEDZIE AVE",
+    "zip": "60645",
+    "acres": 2.02,
+    "ward": 50,
+    "parkClass": "LINEAR PARK",
+    "amenities": {},
+    "lat": 42.01406355002442,
+    "lon": -87.7087212059549
+  },
+  {
+    "id": "34",
+    "name": "NORTHERLY ISLAND",
+    "address": "1400 S LYNN WHITE DR",
+    "zip": "60605",
+    "acres": 117.96,
+    "ward": 4,
+    "parkClass": "MAGNET PARK",
+    "amenities": {
+      "beach": 1
+    },
+    "lat": 41.860665913967516,
+    "lon": -87.60875075223052
+  },
+  {
+    "id": "90",
+    "name": "NORTH MAYFAIR",
+    "address": "4537 W CARMEN AVE",
+    "zip": "60630",
+    "acres": 0.33,
+    "ward": 39,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.97330777934713,
+    "lon": -87.74204657504137
+  },
+  {
+    "id": "533",
+    "name": "NORTH PARK NATURE CENTER",
+    "address": "5801 N PULASKI RD",
+    "zip": "60646",
+    "acres": 58.11,
+    "ward": 39,
+    "parkClass": "NATURE PRESERVE PARK",
+    "amenities": {},
+    "lat": 41.98733634315306,
+    "lon": -87.72333250250801
+  },
+  {
+    "id": "1260",
+    "name": "NORTH SHORE BEACH",
+    "address": "1040 W NORTH SHORE AVE",
+    "zip": "60626",
+    "acres": 0.66,
+    "ward": 49,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {
+      "beach": 1
+    },
+    "lat": 42.00392735137932,
+    "lon": -87.65735345088416
+  },
+  {
+    "id": "141",
+    "name": "NORWOOD",
+    "address": "5801 N NATOMA AVE",
+    "zip": "60631",
+    "acres": 16.41,
+    "ward": 41,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "dogFriendly": 1,
+      "basketball": 4,
+      "tennis": 4,
+      "outdoorPool": 1
+    },
+    "lat": 41.986876044545355,
+    "lon": -87.79321825741232
+  },
+  {
+    "id": "1226",
+    "name": "NORWOOD CIRCLE",
+    "address": "7117 W PETERSON AVE",
+    "zip": "60631",
+    "acres": 2.6,
+    "ward": 41,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.989217813866375,
+    "lon": -87.80504093937199
+  },
+  {
+    "id": "505",
+    "name": "NOTTINGHAM",
+    "address": "7101 W 63RD ST",
+    "zip": "60638",
+    "acres": 0.64,
+    "ward": 23,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.77714942933295,
+    "lon": -87.79878011253102
+  },
+  {
+    "id": "235",
+    "name": "OAKDALE",
+    "address": "965 W 95TH ST",
+    "zip": "60643",
+    "acres": 9.99,
+    "ward": 21,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.720390140284486,
+    "lon": -87.64921486150266
+  },
+  {
+    "id": "1137",
+    "name": "OAKLEY",
+    "address": "6441 S OAKLEY AVE",
+    "zip": "60636",
+    "acres": 0.48,
+    "ward": 16,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.77636407512197,
+    "lon": -87.68073112138103
+  },
+  {
+    "id": "8",
+    "name": "OGDEN (WILLIAM)",
+    "address": "6500 S RACINE AVE",
+    "zip": "60636",
+    "acres": 57.04,
+    "ward": 17,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 3,
+      "basketball": 8,
+      "tennis": 4,
+      "outdoorPool": 1
+    },
+    "lat": 41.77404000297848,
+    "lon": -87.65667474204896
+  },
+  {
+    "id": "477",
+    "name": "OGDEN (WILLIAM) PLAZA",
+    "address": "429 N COLUMBUS DR",
+    "zip": "60611",
+    "acres": 1.38,
+    "ward": 42,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.89028312860223,
+    "lon": -87.61994018080826
+  },
+  {
+    "id": "1012",
+    "name": "O'HALLAREN (BERNARD)",
+    "address": "8335 S HONORE ST",
+    "zip": "60620",
+    "acres": 9.19,
+    "ward": 21,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 2
+    },
+    "lat": 41.74220197172634,
+    "lon": -87.66916486593901
+  },
+  {
+    "id": "1139",
+    "name": "OHIO",
+    "address": "4712 W OHIO ST",
+    "zip": "60644",
+    "acres": 0.48,
+    "ward": 28,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.89153520325764,
+    "lon": -87.744397785768
+  },
+  {
+    "id": "1138",
+    "name": "OHIO & HARDING",
+    "address": "607 N HARDING AVE",
+    "zip": "60624",
+    "acres": 0.56,
+    "ward": 37,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "basketball": 2
+    },
+    "lat": 41.891891684726545,
+    "lon": -87.72448927764916
+  },
+  {
+    "id": "60",
+    "name": "OLYMPIA",
+    "address": "6566 N AVONDALE AVE",
+    "zip": "60631",
+    "acres": 9.75,
+    "ward": 41,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 3
+    },
+    "lat": 41.99880618804617,
+    "lon": -87.81587442351551
+  },
+  {
+    "id": "59",
+    "name": "ORIOLE",
+    "address": "5430 N OLCOTT AVE",
+    "zip": "60656",
+    "acres": 19.47,
+    "ward": 41,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 2,
+      "basketball": 3,
+      "tennis": 3
+    },
+    "lat": 41.979865732718935,
+    "lon": -87.81571722640673
+  },
+  {
+    "id": "407",
+    "name": "ORR (REZIN)",
+    "address": "744 N PULASKI RD",
+    "zip": "60624",
+    "acres": 6.96,
+    "ward": 37,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {},
+    "lat": 41.89443238425595,
+    "lon": -87.72786075545537
+  },
+  {
+    "id": "237",
+    "name": "OWENS (JESSE)",
+    "address": "2100 E 88TH ST",
+    "zip": "60617",
+    "acres": 18.42,
+    "ward": 8,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 6
+    },
+    "lat": 41.73523495374498,
+    "lon": -87.57454327242287
+  },
+  {
+    "id": "423",
+    "name": "OZ",
+    "address": "2021 N BURLING ST",
+    "zip": "60614",
+    "acres": 14.4,
+    "ward": 43,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 4
+    },
+    "lat": 41.92079774271996,
+    "lon": -87.64505630953641
+  },
+  {
+    "id": "404",
+    "name": "PACKINGTOWN",
+    "address": "4856 S LAFLIN ST",
+    "zip": "60609",
+    "acres": 0.22,
+    "ward": 20,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.80510613349951,
+    "lon": -87.66270757579196
+  },
+  {
+    "id": "520",
+    "name": "PALMER (BERTHA HONORÉ)",
+    "address": "916 N HONORE ST",
+    "zip": "60622",
+    "acres": 0.16,
+    "ward": 2,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.898372726141424,
+    "lon": -87.67379556862498
+  },
+  {
+    "id": "13",
+    "name": "PALMER (POTTER)",
+    "address": "200 E 111TH ST",
+    "zip": "60628",
+    "acres": 38.44,
+    "ward": 9,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 9,
+      "outdoorPool": 1
+    },
+    "lat": 41.69098590441625,
+    "lon": -87.6159257126145
+  },
+  {
+    "id": "539",
+    "name": "PALMER SQUARE",
+    "address": "2200 N KEDZIE AVE",
+    "zip": "60647",
+    "acres": 8.09,
+    "ward": 0,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.921072752515265,
+    "lon": -87.70425207951268
+  },
+  {
+    "id": "531",
+    "name": "PALMISANO (HENRY)",
+    "address": "2850 S HALSTED ST",
+    "zip": "60608",
+    "acres": 27.05,
+    "ward": 11,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {},
+    "lat": 41.84345232038898,
+    "lon": -87.64919104777418
+  },
+  {
+    "id": "326",
+    "name": "PARK NO. 326",
+    "address": "6430 S KENWOOD AVE",
+    "zip": "60637",
+    "acres": 0.22,
+    "ward": 20,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.77772760049372,
+    "lon": -87.59330527779704
+  },
+  {
+    "id": "382",
+    "name": "PARK NO. 382",
+    "address": "8116 S HALSTED ST",
+    "zip": "60620",
+    "acres": 0.77,
+    "ward": 21,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.74613691951663,
+    "lon": -87.64418529528207
+  },
+  {
+    "id": "399",
+    "name": "PARK NO. 399",
+    "address": "1420 N ARTESIAN AVE",
+    "zip": "60622",
+    "acres": 0.17,
+    "ward": 1,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.907301063609445,
+    "lon": -87.68861037381612
+  },
+  {
+    "id": "414",
+    "name": "PARK NO. 414",
+    "address": "4302 W DIVISION ST",
+    "zip": "60651",
+    "acres": 0.3,
+    "ward": 37,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.902806448516465,
+    "lon": -87.73408011660118
+  },
+  {
+    "id": "419",
+    "name": "PARK NO. 419",
+    "address": "8001 S WABASH AVE",
+    "zip": "60619",
+    "acres": 0.24,
+    "ward": 6,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.7490532981992,
+    "lon": -87.62271202791828
+  },
+  {
+    "id": "421",
+    "name": "PARK NO. 421",
+    "address": "5300 S HALSTED ST",
+    "zip": "60609",
+    "acres": 1,
+    "ward": 20,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.797435471654694,
+    "lon": -87.6457437159469
+  },
+  {
+    "id": "422",
+    "name": "PARK NO. 422",
+    "address": "3200 W CONGRESS PKWY",
+    "zip": "60624",
+    "acres": 0.86,
+    "ward": 28,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.87488519576667,
+    "lon": -87.70700692652895
+  },
+  {
+    "id": "432",
+    "name": "PARK NO. 432",
+    "address": "3349 W RICE ST",
+    "zip": "60651",
+    "acres": 0.08,
+    "ward": 27,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.89621425178579,
+    "lon": -87.71076410734732
+  },
+  {
+    "id": "437",
+    "name": "PARK NO. 437",
+    "address": "5653 S LOOMIS ST",
+    "zip": "60636",
+    "acres": 0.3,
+    "ward": 16,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.79059034301132,
+    "lon": -87.65934400696895
+  },
+  {
+    "id": "468",
+    "name": "PARK NO. 468",
+    "address": "4556 W 56TH ST",
+    "zip": "60629",
+    "acres": 1.37,
+    "ward": 13,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.79170798073018,
+    "lon": -87.73740488814728
+  },
+  {
+    "id": "474",
+    "name": "PARK NO. 474",
+    "address": "3231 W DOUGLAS BLVD",
+    "zip": "60616",
+    "acres": 0.01,
+    "ward": 3,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.835509665160274,
+    "lon": -87.6276001985481
+  },
+  {
+    "id": "500",
+    "name": "PARK NO. 500",
+    "address": "730 S SPRINGFIELD AVE",
+    "zip": "60624",
+    "acres": 1.33,
+    "ward": 24,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.871231642428754,
+    "lon": -87.7229760423214
+  },
+  {
+    "id": "512",
+    "name": "PARK NO. 512",
+    "address": "1800 N ASHLAND AVE",
+    "zip": "60614",
+    "acres": 3.46,
+    "ward": 32,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.91492389183296,
+    "lon": -87.66785156610378
+  },
+  {
+    "id": "514",
+    "name": "PARK NO. 514",
+    "address": "1434 N MONTICELLO AVE",
+    "zip": "60651",
+    "acres": 0.7,
+    "ward": 26,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.907129711898314,
+    "lon": -87.71805152673566
+  },
+  {
+    "id": "517",
+    "name": "PARK NO. 517",
+    "address": "5914-24 N SHERIDAN RD",
+    "zip": "60660",
+    "acres": 0.65,
+    "ward": 48,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.989942126072975,
+    "lon": -87.65568877899199
+  },
+  {
+    "id": "519",
+    "name": "PARK NO. 519",
+    "address": "1944 S ST LOUIS AVE",
+    "zip": "60623",
+    "acres": 0.08,
+    "ward": 24,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.85392852985348,
+    "lon": -87.71263141650694
+  },
+  {
+    "id": "527",
+    "name": "PARK NO. 527",
+    "address": "6200 S LaSALLE ST",
+    "zip": "60621",
+    "acres": 5.75,
+    "ward": 20,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.78148778043918,
+    "lon": -87.629456441583
+  },
+  {
+    "id": "528",
+    "name": "PARK NO. 528",
+    "address": "6336 S KILBOURN AVE",
+    "zip": "60629",
+    "acres": 5.78,
+    "ward": 13,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.77706476777477,
+    "lon": -87.73612787367998
+  },
+  {
+    "id": "529",
+    "name": "PARK NO. 529",
+    "address": "2155 W WABANSIA AVE",
+    "zip": "60647",
+    "acres": 0.54,
+    "ward": 32,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.912413198118614,
+    "lon": -87.68193640967901
+  },
+  {
+    "id": "534",
+    "name": "PARK NO. 534",
+    "address": "1300 S ST LOUIS AVE",
+    "zip": "60623",
+    "acres": 3.65,
+    "ward": 24,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.86387191234582,
+    "lon": -87.71287043536563
+  },
+  {
+    "id": "535",
+    "name": "PARK NO. 535",
+    "address": "800 W WISCONSIN ST",
+    "zip": "60614",
+    "acres": 0.14,
+    "ward": 43,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.916025189255066,
+    "lon": -87.64873746619493
+  },
+  {
+    "id": "536",
+    "name": "PARK NO. 536",
+    "address": "1401 N NOBLE ST",
+    "zip": "60622",
+    "acres": 0.32,
+    "ward": 2,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.907228269744806,
+    "lon": -87.66250423285743
+  },
+  {
+    "id": "538",
+    "name": "PARK NO. 538",
+    "address": "6400 N KEDZIE",
+    "zip": "60645",
+    "acres": 32.67,
+    "ward": 0,
+    "parkClass": "LINEAR PARK",
+    "amenities": {},
+    "lat": 42.00642669385044,
+    "lon": -87.70953984360163
+  },
+  {
+    "id": "540",
+    "name": "PARK NO. 540",
+    "address": "2401 S FEDERAL ST",
+    "zip": "60616",
+    "acres": 5.01,
+    "ward": 3,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.84899669399355,
+    "lon": -87.62842065784571
+  },
+  {
+    "id": "546",
+    "name": "PARK NO. 546",
+    "address": "450 E BENTON PL",
+    "zip": "60611",
+    "acres": 5.83,
+    "ward": 42,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "dogFriendly": 1
+    },
+    "lat": 41.88594279103157,
+    "lon": -87.61791839350843
+  },
+  {
+    "id": "551",
+    "name": "PARK NO. 551",
+    "address": "353 N DES PLAINES ST",
+    "zip": "60661",
+    "acres": 1.31,
+    "ward": 42,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "dogFriendly": 1
+    },
+    "lat": 41.88870347952495,
+    "lon": -87.64355722370748
+  },
+  {
+    "id": "552",
+    "name": "PARK NO. 552",
+    "address": "4901 W BELMONT AVE",
+    "zip": "60641",
+    "acres": 0.31,
+    "ward": 31,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.93859725345375,
+    "lon": -87.74949859316933
+  },
+  {
+    "id": "556",
+    "name": "PARK NO. 556",
+    "address": "2529 W LOGAN BLVD",
+    "zip": "60647",
+    "acres": 0.57,
+    "ward": 1,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {
+      "dogFriendly": 1
+    },
+    "lat": 41.92773712140241,
+    "lon": -87.6884799843429
+  },
+  {
+    "id": "559",
+    "name": "PARK NO. 559",
+    "address": "6151 N SHERIDAN RD",
+    "zip": "60660",
+    "acres": 0.61,
+    "ward": 48,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.993771147684114,
+    "lon": -87.65514617264978
+  },
+  {
+    "id": "565",
+    "name": "PARK NO. 565",
+    "address": "11600 S TORRENCE AVE",
+    "zip": "60617",
+    "acres": 143.35,
+    "ward": 10,
+    "parkClass": "NATURE PRESERVE PARK",
+    "amenities": {},
+    "lat": 41.6780026225241,
+    "lon": -87.56159355302495
+  },
+  {
+    "id": "566",
+    "name": "PARK NO. 566",
+    "address": "7901 S FARRAGUT",
+    "zip": "60617",
+    "acres": 70.3,
+    "ward": 0,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.74875786077479,
+    "lon": -87.53831314283488
+  },
+  {
+    "id": "567",
+    "name": "PARK NO. 567",
+    "address": "1799 N MILWAUKEE AVE",
+    "zip": "60647",
+    "acres": 0.33,
+    "ward": 32,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.91423833757647,
+    "lon": -87.68310017366807
+  },
+  {
+    "id": "569",
+    "name": "PARK NO. 569",
+    "address": "1358 W MONROE ST",
+    "zip": "60607",
+    "acres": 0.4,
+    "ward": 27,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {
+      "dogFriendly": 1
+    },
+    "lat": 41.8805220034181,
+    "lon": -87.66176657744434
+  },
+  {
+    "id": "571",
+    "name": "PARK NO. 571",
+    "address": "2754-2860 S ELEANOR ST",
+    "zip": "60608",
+    "acres": 4.41,
+    "ward": 11,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.84346344452958,
+    "lon": -87.66311591504385
+  },
+  {
+    "id": "573",
+    "name": "PARK NO. 573",
+    "address": "701 E 114TH ST",
+    "zip": "60628",
+    "acres": 2.36,
+    "ward": 9,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.68654354428094,
+    "lon": -87.6060321901206
+  },
+  {
+    "id": "574",
+    "name": "PARK NO. 574",
+    "address": "2540 W JACKSON BLVD",
+    "zip": "60612",
+    "acres": 2.21,
+    "ward": 27,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.87800833342845,
+    "lon": -87.69039742401411
+  },
+  {
+    "id": "576",
+    "name": "PARK NO. 576",
+    "address": "2100 E 134TH ST",
+    "zip": "60633",
+    "acres": 144.94,
+    "ward": 10,
+    "parkClass": "NATURE PRESERVE PARK",
+    "amenities": {},
+    "lat": 41.647340472382105,
+    "lon": -87.56908504388895
+  },
+  {
+    "id": "578",
+    "name": "PARK NO. 578",
+    "address": "1919 W MAYPOLE AVE",
+    "zip": "60612",
+    "acres": 1.757,
+    "ward": 27,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.88366915150193,
+    "lon": -87.67461301979193
+  },
+  {
+    "id": "580",
+    "name": "PARK NO. 580",
+    "address": "4030 N OAK PARK AVE",
+    "zip": "60634",
+    "acres": 7.02,
+    "ward": 38,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.95668791444445,
+    "lon": -87.79571301902502
+  },
+  {
+    "id": "581",
+    "name": "PARK NO. 581",
+    "address": "11625 S OAKLEY AVE",
+    "zip": "60643",
+    "acres": 7.4,
+    "ward": 19,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.68083134906667,
+    "lon": -87.67803461089738
+  },
+  {
+    "id": "582",
+    "name": "PARK NO. 582",
+    "address": "9202-35 S VANDERPOEL AVE",
+    "zip": "60643",
+    "acres": 1,
+    "ward": 19,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.726450891875714,
+    "lon": -87.66677074935268
+  },
+  {
+    "id": "583",
+    "name": "PARK NO. 583",
+    "address": "10108 S EXCHANGE AVE",
+    "zip": "60617",
+    "acres": 0.24,
+    "ward": 10,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.71142489066237,
+    "lon": -87.55268670115233
+  },
+  {
+    "id": "584",
+    "name": "PARK NO. 584",
+    "address": "134 W 119th ST",
+    "zip": "60628",
+    "acres": 0.36511340773,
+    "ward": 34,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.67826219050666,
+    "lon": -87.62664134913962
+  },
+  {
+    "id": "585",
+    "name": "PARK NO. 585",
+    "address": "6049 S WHIPPLE ST",
+    "zip": "60629",
+    "acres": 0.09,
+    "ward": 16,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.78305010779445,
+    "lon": -87.69919938758548
+  },
+  {
+    "id": "586",
+    "name": "PARK NO. 586",
+    "address": "7208 S MAPLEWOOD AVE",
+    "zip": "60629",
+    "acres": 0.07,
+    "ward": 18,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.762477465153985,
+    "lon": -87.68715608615128
+  },
+  {
+    "id": "587",
+    "name": "PARK NO. 587",
+    "address": "658 E 95th ST",
+    "zip": "60619",
+    "acres": 0.11,
+    "ward": 9,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.72233312907179,
+    "lon": -87.60709622637819
+  },
+  {
+    "id": "588",
+    "name": "PARK NO. 588",
+    "address": "10440-44 S CORLISS AVE",
+    "zip": "60628",
+    "acres": 0.23,
+    "ward": 9,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.70435201856929,
+    "lon": -87.60431982829108
+  },
+  {
+    "id": "589",
+    "name": "PARK NO. 589",
+    "address": "227 W 110TH PL",
+    "zip": "60628",
+    "acres": 0.27,
+    "ward": 34,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.69319254700362,
+    "lon": -87.62897247155617
+  },
+  {
+    "id": "590",
+    "name": "PARK NO. 590",
+    "address": "3938-40 S INDIANA AVE",
+    "zip": "60653",
+    "acres": 0.28,
+    "ward": 3,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.822560274010534,
+    "lon": -87.62198165751256
+  },
+  {
+    "id": "591",
+    "name": "PARK NO. 591",
+    "address": "3906 S LAKE PARK AVE",
+    "zip": "60653",
+    "acres": 0.28,
+    "ward": 4,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.82455133033213,
+    "lon": -87.60405635041671
+  },
+  {
+    "id": "592",
+    "name": "PARK NO. 592",
+    "address": "4149-53 S VINCENNES AVE",
+    "zip": "60653",
+    "acres": 0.37,
+    "ward": 4,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.818618086091206,
+    "lon": -87.61339718714441
+  },
+  {
+    "id": "593",
+    "name": "PARK NO. 593",
+    "address": "4546 N KEDVALE AVE",
+    "zip": "60630",
+    "acres": 0.28,
+    "ward": 39,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.96388272868985,
+    "lon": -87.73197232988076
+  },
+  {
+    "id": "594",
+    "name": "PARK NO. 594",
+    "address": "3159 S HALSTED ST",
+    "zip": "60608",
+    "acres": 0.07,
+    "ward": 11,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.83635442100949,
+    "lon": -87.64593090513792
+  },
+  {
+    "id": "595",
+    "name": "PARK NO. 595",
+    "address": "247 W 128TH ST",
+    "zip": "60628",
+    "acres": 13.7,
+    "ward": 9,
+    "parkClass": "NATURE PRESERVE PARK",
+    "amenities": {},
+    "lat": 41.659822991229724,
+    "lon": -87.63021036051187
+  },
+  {
+    "id": "596",
+    "name": "PARK NO. 596",
+    "address": "4830 S WESTERN AVE",
+    "zip": "60632",
+    "acres": 17.6,
+    "ward": 14,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.805345496900344,
+    "lon": -87.6878856262321
+  },
+  {
+    "id": "597",
+    "name": "PARK NO. 597",
+    "address": "12500 S TORRENCE AVE",
+    "zip": "60633",
+    "acres": 10.27,
+    "ward": 10,
+    "parkClass": "NATURE PRESERVE PARK",
+    "amenities": {},
+    "lat": 41.669000088710405,
+    "lon": -87.5620708538462
+  },
+  {
+    "id": "598",
+    "name": "PARK NO. 598",
+    "address": "1514 N LARRABEE ST",
+    "zip": "60610",
+    "acres": 3.89,
+    "ward": 27,
+    "parkClass": "UNIMPROVED PARK",
+    "amenities": {},
+    "lat": 41.909676351448105,
+    "lon": -87.64463039677779
+  },
+  {
+    "id": "599",
+    "name": "PARK NO. 599",
+    "address": "1623 W EDGEWATER AVE",
+    "zip": "",
+    "acres": 0,
+    "ward": 0,
+    "parkClass": "PENDING",
+    "amenities": {},
+    "lat": 41.98559531220686,
+    "lon": -87.6710042888998
+  },
+  {
+    "id": "600",
+    "name": "PARK NO. 600",
+    "address": "12201 S STONY ISLAND AVE",
+    "zip": "",
+    "acres": 0,
+    "ward": 0,
+    "parkClass": "PENDING",
+    "amenities": {},
+    "lat": 41.67086018490023,
+    "lon": -87.57202866097879
+  },
+  {
+    "id": "601",
+    "name": "PARK NO. 601",
+    "address": "7000 W IRVING PARK RD",
+    "zip": "",
+    "acres": 0,
+    "ward": 0,
+    "parkClass": "PENDING",
+    "amenities": {},
+    "lat": 41.95373916160256,
+    "lon": -87.80025090115817
+  },
+  {
+    "id": "602",
+    "name": "PARK NO. 602",
+    "address": "4008 W MADISON ST",
+    "zip": "",
+    "acres": 0,
+    "ward": 0,
+    "parkClass": "PENDING",
+    "amenities": {},
+    "lat": 41.881172970989695,
+    "lon": -87.72613186253133
+  },
+  {
+    "id": "1056",
+    "name": "PARK-VIEW",
+    "address": "3823 W SCHOOL ST",
+    "zip": "60618",
+    "acres": 0.79,
+    "ward": 30,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.94073413911537,
+    "lon": -87.72324641167295
+  },
+  {
+    "id": "1168",
+    "name": "PARK WEST",
+    "address": "745 W WRIGHTWOOD AVE",
+    "zip": "60614",
+    "acres": 0.21,
+    "ward": 43,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.9288839402818,
+    "lon": -87.64806659685007
+  },
+  {
+    "id": "501",
+    "name": "PARSONS (LUCY)",
+    "address": "4701 W BELMONT AVE",
+    "zip": "60641",
+    "acres": 0.33,
+    "ward": 30,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.93902464935115,
+    "lon": -87.74450310421221
+  },
+  {
+    "id": "1057",
+    "name": "PASCHEN (CHRISTIAN)",
+    "address": "1932 W LUNT AVE",
+    "zip": "60626",
+    "acres": 1,
+    "ward": 49,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 42.00905988514653,
+    "lon": -87.67988556516573
+  },
+  {
+    "id": "247",
+    "name": "PASTEUR (LOUIS)",
+    "address": "5825 S KOSTNER AVE",
+    "zip": "60629",
+    "acres": 11.83,
+    "ward": 13,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2
+    },
+    "lat": 41.78861926246954,
+    "lon": -87.73085143076452
+  },
+  {
+    "id": "339",
+    "name": "PENDLETON (HADIYA)",
+    "address": "4347 S CALUMET AVE",
+    "zip": "60653",
+    "acres": 0.23,
+    "ward": 3,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.8152693373089,
+    "lon": -87.61840521366578
+  },
+  {
+    "id": "436",
+    "name": "PERIWINKLE",
+    "address": "100 W 66TH ST",
+    "zip": "60621",
+    "acres": 0.75,
+    "ward": 20,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {},
+    "lat": 41.77471783507524,
+    "lon": -87.62798139627354
+  },
+  {
+    "id": "452",
+    "name": "PETERSON (PEHR SAMUEL)",
+    "address": "5801 N PULASKI RD",
+    "zip": "60646",
+    "acres": 22.24,
+    "ward": 39,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 2,
+      "basketball": 6,
+      "tennis": 4
+    },
+    "lat": 41.988439953737895,
+    "lon": -87.72052194685484
+  },
+  {
+    "id": "1058",
+    "name": "PIETROWSKI (SYLVESTER)",
+    "address": "9650 S AVENUE M",
+    "zip": "60617",
+    "acres": 0.67,
+    "ward": 10,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.719729994302796,
+    "lon": -87.53791436286878
+  },
+  {
+    "id": "1287",
+    "name": "PINE",
+    "address": "9507 S OGLESBY AVE",
+    "zip": "60617",
+    "acres": 0.36,
+    "ward": 10,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.72247245707165,
+    "lon": -87.56579196749966
+  },
+  {
+    "id": "230",
+    "name": "PIOTROWSKI (LILLIAN)",
+    "address": "4200 W 31ST ST",
+    "zip": "60623",
+    "acres": 23.93,
+    "ward": 22,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 1,
+      "skatePark": 1,
+      "outdoorPool": 1
+    },
+    "lat": 41.83492937089255,
+    "lon": -87.73068304131249
+  },
+  {
+    "id": "140",
+    "name": "PLEASANT POINT",
+    "address": "6813 W IMLAY ST",
+    "zip": "60631",
+    "acres": 2.25,
+    "ward": 41,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.99840331149673,
+    "lon": -87.79759075355098
+  },
+  {
+    "id": "323",
+    "name": "POPLAR",
+    "address": "4046 S PRAIRIE AVE",
+    "zip": "60653",
+    "acres": 0.24,
+    "ward": 3,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.82061779698677,
+    "lon": -87.62022064771664
+  },
+  {
+    "id": "147",
+    "name": "PORTAGE",
+    "address": "4100 N LONG AVE",
+    "zip": "60641",
+    "acres": 38.29,
+    "ward": 38,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "dogFriendly": 1,
+      "tennis": 6,
+      "outdoorPool": 1
+    },
+    "lat": 41.955222658294424,
+    "lon": -87.76459726418712
+  },
+  {
+    "id": "166",
+    "name": "POTTAWATTOMIE",
+    "address": "7340 N ROGERS AVE",
+    "zip": "60626",
+    "acres": 9.45,
+    "ward": 49,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "dogFriendly": 1,
+      "basketball": 4
+    },
+    "lat": 42.01563462983076,
+    "lon": -87.67790602509248
+  },
+  {
+    "id": "329",
+    "name": "PRAIRIE WOLF",
+    "address": "6310 S DREXEL AVE",
+    "zip": "60637",
+    "acres": 0.17,
+    "ward": 20,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.78002050842346,
+    "lon": -87.60316830699897
+  },
+  {
+    "id": "543",
+    "name": "PRINTERS ROW",
+    "address": "640 S FEDERAL ST",
+    "zip": "60605",
+    "acres": 0.4,
+    "ward": 4,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.87339509555179,
+    "lon": -87.62948054895233
+  },
+  {
+    "id": "1261",
+    "name": "PRINZ (TOBEY) BEACH",
+    "address": "1050 W PRATT BLVD",
+    "zip": "60626",
+    "acres": 2.31,
+    "ward": 49,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {
+      "beach": 1
+    },
+    "lat": 42.0058809300058,
+    "lon": -87.65750152627682
+  },
+  {
+    "id": "541",
+    "name": "PRITZKER",
+    "address": "301-52 S STATE ST",
+    "zip": "60604",
+    "acres": 1.1,
+    "ward": 4,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.87728353475926,
+    "lon": -87.62810947547095
+  },
+  {
+    "id": "375",
+    "name": "PRIVET",
+    "address": "1844 N SHEFFIELD AVE",
+    "zip": "60614",
+    "acres": 0.15,
+    "ward": 43,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.915030562311664,
+    "lon": -87.65344610591929
+  },
+  {
+    "id": "49",
+    "name": "PROSPECT GARDENS",
+    "address": "10970 S PROSPECT AVE",
+    "zip": "60643",
+    "acres": 3.68,
+    "ward": 19,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.69385734139602,
+    "lon": -87.66898528059029
+  },
+  {
+    "id": "217",
+    "name": "PULASKI (CASIMER)",
+    "address": "1419 W BLACKHAWK ST",
+    "zip": "60622",
+    "acres": 4.18,
+    "ward": 2,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "outdoorPool": 1
+    },
+    "lat": 41.90622278342447,
+    "lon": -87.66340042144896
+  },
+  {
+    "id": "1237",
+    "name": "PULLMAN (GEORGE)",
+    "address": "11113 S COTTAGE GROVE AVE",
+    "zip": "60628",
+    "acres": 1.01,
+    "ward": 9,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.69220792660618,
+    "lon": -87.60947145940874
+  },
+  {
+    "id": "464",
+    "name": "QUINN (MARY)",
+    "address": "6239 N MCCLELLAN AVE",
+    "zip": "60646",
+    "acres": 0.89,
+    "ward": 39,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.99561771664669,
+    "lon": -87.77065221456522
+  },
+  {
+    "id": "354",
+    "name": "RAILROAD JUNCTION",
+    "address": "7334 S MARYLAND AVE",
+    "zip": "60619",
+    "acres": 0.25,
+    "ward": 8,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.76116452412974,
+    "lon": -87.60441322462634
+  },
+  {
+    "id": "1001",
+    "name": "RAINBOW BEACH",
+    "address": "2873 E 75TH ST",
+    "zip": "60649",
+    "acres": 109.13,
+    "ward": 7,
+    "parkClass": "CITYWIDE PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 10,
+      "tennis": 12,
+      "beach": 1
+    },
+    "lat": 41.75649778559761,
+    "lon": -87.55044316109095
+  },
+  {
+    "id": "33",
+    "name": "RAINEY (EDWARD)",
+    "address": "4350 W 79TH ST",
+    "zip": "60652",
+    "acres": 14.3,
+    "ward": 18,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 3
+    },
+    "lat": 41.74978676023293,
+    "lon": -87.72883773947787
+  },
+  {
+    "id": "159",
+    "name": "RAVENSWOOD MANOR",
+    "address": "4626 N MANOR AVE",
+    "zip": "60625",
+    "acres": 0.83,
+    "ward": 33,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.965585436641256,
+    "lon": -87.7007273400764
+  },
+  {
+    "id": "509",
+    "name": "RENAISSANCE",
+    "address": "1300 W 79TH ST",
+    "zip": "60620",
+    "acres": 1.28,
+    "ward": 0,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.750687873319684,
+    "lon": -87.656549207507
+  },
+  {
+    "id": "185",
+    "name": "REVERE (PAUL)",
+    "address": "2509 W IRVING PARK RD",
+    "zip": "60618",
+    "acres": 9.49,
+    "ward": 47,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 4
+    },
+    "lat": 41.95339768676384,
+    "lon": -87.69180120254617
+  },
+  {
+    "id": "352",
+    "name": "REYES (GUADALUPE)",
+    "address": "827 W 19TH ST",
+    "zip": "60608",
+    "acres": 0.71,
+    "ward": 11,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "basketball": 4
+    },
+    "lat": 41.856559516844776,
+    "lon": -87.64798265610087
+  },
+  {
+    "id": "175",
+    "name": "RIDGE",
+    "address": "9625 S LONGWOOD DR",
+    "zip": "60643",
+    "acres": 9.82,
+    "ward": 19,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2
+    },
+    "lat": 41.71734079217732,
+    "lon": -87.66807034651914
+  },
+  {
+    "id": "490",
+    "name": "RIDGE PARK WETLANDS",
+    "address": "9516 S WOOD ST",
+    "zip": "60643",
+    "acres": 1.21,
+    "ward": 19,
+    "parkClass": "NATURE PRESERVE PARK",
+    "amenities": {},
+    "lat": 41.72014862859637,
+    "lon": -87.6679100885784
+  },
+  {
+    "id": "123",
+    "name": "RIIS (JACOB)",
+    "address": "6100 W FULLERTON AVE",
+    "zip": "60639",
+    "acres": 57.49,
+    "ward": 30,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 2,
+      "tennis": 10,
+      "outdoorPool": 1
+    },
+    "lat": 41.925578775035625,
+    "lon": -87.78224252392256
+  },
+  {
+    "id": "186",
+    "name": "RIVER",
+    "address": "5100 N FRANCISCO AVE",
+    "zip": "60625",
+    "acres": 29.6,
+    "ward": 0,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 2,
+      "dogFriendly": 1,
+      "basketball": 2,
+      "tennis": 5,
+      "outdoorPool": 1
+    },
+    "lat": 41.9735762613042,
+    "lon": -87.7041240581314
+  },
+  {
+    "id": "476",
+    "name": "RIVER ESPLANADE",
+    "address": "401 E RIVER DR",
+    "zip": "60611",
+    "acres": 1.12,
+    "ward": 42,
+    "parkClass": "LINEAR PARK",
+    "amenities": {},
+    "lat": 41.88893111485629,
+    "lon": -87.61625836547714
+  },
+  {
+    "id": "95",
+    "name": "ROBERTS (DANIEL) SQUARE",
+    "address": "5230 W ARGYLE ST",
+    "zip": "60630",
+    "acres": 4.53,
+    "ward": 45,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.97205075673265,
+    "lon": -87.75882114834828
+  },
+  {
+    "id": "320",
+    "name": "ROBICHAUX (JOSEPH)",
+    "address": "9247 S EGGLESTON AVE",
+    "zip": "60620",
+    "acres": 12.92,
+    "ward": 21,
+    "parkClass": "LINEAR PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 8,
+      "tennis": 2
+    },
+    "lat": 41.72702509720654,
+    "lon": -87.63449249751083
+  },
+  {
+    "id": "236",
+    "name": "ROBINSON (JACKIE)",
+    "address": "10540 S MORGAN ST",
+    "zip": "60643",
+    "acres": 12.32,
+    "ward": 34,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.700754626758,
+    "lon": -87.64755906113294
+  },
+  {
+    "id": "240",
+    "name": "ROGERS (PHILLIP)",
+    "address": "7345 N WASHTENAW AVE",
+    "zip": "60645",
+    "acres": 22.54,
+    "ward": 50,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 4
+    },
+    "lat": 42.013746960317775,
+    "lon": -87.69496469486678
+  },
+  {
+    "id": "1262",
+    "name": "ROGERS (PHILLIP) BEACH",
+    "address": "7705 N EASTLAKE TERRACE",
+    "zip": "60626",
+    "acres": 2.37,
+    "ward": 49,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "tennis": 2,
+      "beach": 1
+    },
+    "lat": 42.02132820398053,
+    "lon": -87.66451067486285
+  },
+  {
+    "id": "275",
+    "name": "RONAN (GEORGE)",
+    "address": "3000 W ARGYLE ST",
+    "zip": "60625",
+    "acres": 11.97,
+    "ward": 0,
+    "parkClass": "LINEAR PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.970809748984415,
+    "lon": -87.702873684858
+  },
+  {
+    "id": "466",
+    "name": "ROOSEVELT (THEODORE)",
+    "address": "62 W ROOSEVELT RD",
+    "zip": "60605",
+    "acres": 1.78,
+    "ward": 4,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "tennis": 3
+    },
+    "lat": 41.86842416315007,
+    "lon": -87.63016870593309
+  },
+  {
+    "id": "91",
+    "name": "ROSEDALE",
+    "address": "6312 W ROSEDALE AVE",
+    "zip": "60646",
+    "acres": 3.07,
+    "ward": 45,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 2,
+      "basketball": 2,
+      "tennis": 2
+    },
+    "lat": 41.98904524633905,
+    "lon": -87.78575205847402
+  },
+  {
+    "id": "231",
+    "name": "ROSENBLUM (J. LESLIE)",
+    "address": "2000 E 75TH ST",
+    "zip": "60649",
+    "acres": 10.66,
+    "ward": 8,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 2
+    },
+    "lat": 41.75849779999297,
+    "lon": -87.58052802967597
+  },
+  {
+    "id": "248",
+    "name": "ROWAN (WILLIAM)",
+    "address": "11546 S AVENUE L",
+    "zip": "60617",
+    "acres": 18.64,
+    "ward": 10,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.68578396968503,
+    "lon": -87.53783655717069
+  },
+  {
+    "id": "1278",
+    "name": "RUIZ (IRMA C.)",
+    "address": "3801 W 45TH ST",
+    "zip": "60632",
+    "acres": 0.53,
+    "ward": 14,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.81134241998805,
+    "lon": -87.71902996874024
+  },
+  {
+    "id": "6",
+    "name": "RUSSELL (MARTIN) SQUARE",
+    "address": "3045 E 83RD ST",
+    "zip": "60617",
+    "acres": 10.05,
+    "ward": 10,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 3,
+      "outdoorPool": 1
+    },
+    "lat": 41.74326757651448,
+    "lon": -87.54816391758305
+  },
+  {
+    "id": "127",
+    "name": "RUTHERFORD SAYRE",
+    "address": "6871 W BELDEN AVE",
+    "zip": "60635",
+    "acres": 13.47,
+    "ward": 0,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2
+    },
+    "lat": 41.920377019964334,
+    "lon": -87.79753705316462
+  },
+  {
+    "id": "1147",
+    "name": "SACRAMENTO",
+    "address": "3520 N SACRAMENTO AVE",
+    "zip": "60618",
+    "acres": 0.93,
+    "ward": 33,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.94591499928936,
+    "lon": -87.70307847925261
+  },
+  {
+    "id": "1149",
+    "name": "SAINT LOUIS",
+    "address": "347 N ST LOUIS AVE",
+    "zip": "60624",
+    "acres": 0.45,
+    "ward": 28,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.887710823613695,
+    "lon": -87.71350147351619
+  },
+  {
+    "id": "195",
+    "name": "SAUGANASH",
+    "address": "5861 N KOSTNER AVE",
+    "zip": "60646",
+    "acres": 4.65,
+    "ward": 39,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 2
+    },
+    "lat": 41.988687605489304,
+    "lon": -87.73739342099829
+  },
+  {
+    "id": "555",
+    "name": "SAUGANASH TRAIL",
+    "address": "4400 W DEVON AVE",
+    "zip": "60626",
+    "acres": 11.83,
+    "ward": 39,
+    "parkClass": "LINEAR PARK",
+    "amenities": {},
+    "lat": 41.989104257856134,
+    "lon": -87.73735392505354
+  },
+  {
+    "id": "1148",
+    "name": "SCHAEFER (EDWARD)",
+    "address": "2415 N MARSHFIELD AVE",
+    "zip": "60614",
+    "acres": 0.25,
+    "ward": 32,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.92577111678763,
+    "lon": -87.66922660501423
+  },
+  {
+    "id": "503",
+    "name": "SCHAFER (CLARA D.)",
+    "address": "8900 S GREEN BAY AVE",
+    "zip": "60617",
+    "acres": 15.47,
+    "ward": 10,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.7319868420473,
+    "lon": -87.5422544182315
+  },
+  {
+    "id": "1061",
+    "name": "SCHREIBER",
+    "address": "1552 W SCHREIBER AVE",
+    "zip": "60626",
+    "acres": 2.15,
+    "ward": 40,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.999083430001086,
+    "lon": -87.66968816527985
+  },
+  {
+    "id": "265",
+    "name": "SCOTTSDALE",
+    "address": "4620 W 83RD PL",
+    "zip": "60652",
+    "acres": 2.48,
+    "ward": 18,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.74162313823983,
+    "lon": -87.73536977274016
+  },
+  {
+    "id": "1242",
+    "name": "SENECA",
+    "address": "228 E CHICAGO AVE",
+    "zip": "60611",
+    "acres": 1.01,
+    "ward": 2,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.897185647503136,
+    "lon": -87.62209398891346
+  },
+  {
+    "id": "455",
+    "name": "SENIOR CITIZENS MEML.",
+    "address": "2238 N OAKLEY AVE",
+    "zip": "60647",
+    "acres": 1.1,
+    "ward": 32,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.92303342849445,
+    "lon": -87.68558925129479
+  },
+  {
+    "id": "309",
+    "name": "SENKA (EDWARD \"DUKE\")",
+    "address": "5656 S ST LOUIS AVE",
+    "zip": "60629",
+    "acres": 18.83,
+    "ward": 14,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 6
+    },
+    "lat": 41.791727929528065,
+    "lon": -87.71176989247918
+  },
+  {
+    "id": "227",
+    "name": "SENN (NICHOLAS)",
+    "address": "5887 N RIDGE AVE",
+    "zip": "60660",
+    "acres": 6.05,
+    "ward": 48,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 1
+    },
+    "lat": 41.98996574430086,
+    "lon": -87.66840650313777
+  },
+  {
+    "id": "108",
+    "name": "SEWARD (WILLIAM)",
+    "address": "375 W ELM ST",
+    "zip": "60610",
+    "acres": 8.73,
+    "ward": 27,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 10
+    },
+    "lat": 41.90250296389683,
+    "lon": -87.63868812642288
+  },
+  {
+    "id": "148",
+    "name": "SHABBONA",
+    "address": "6935 W ADDISON",
+    "zip": "60634",
+    "acres": 18.7,
+    "ward": 38,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 5
+    },
+    "lat": 41.94195721214956,
+    "lon": -87.80035538374301
+  },
+  {
+    "id": "212",
+    "name": "SHEDD (JOHN G.)",
+    "address": "3660 W 23RD ST",
+    "zip": "60623",
+    "acres": 1.36,
+    "ward": 22,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 3
+    },
+    "lat": 41.84994086735866,
+    "lon": -87.71635547349227
+  },
+  {
+    "id": "398",
+    "name": "SHEIL (BERNARD) COMM. CTR.",
+    "address": "3505 N SOUTHPORT AVE",
+    "zip": "60657",
+    "acres": 0.47,
+    "ward": 44,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.9456959723049,
+    "lon": -87.66366267597972
+  },
+  {
+    "id": "205",
+    "name": "SHERIDAN (PHILIP HENRY)",
+    "address": "910 S ABERDEEN ST",
+    "zip": "60607",
+    "acres": 4.44,
+    "ward": 25,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 3
+    },
+    "lat": 41.87061908506913,
+    "lon": -87.65478555345221
+  },
+  {
+    "id": "7",
+    "name": "SHERMAN (JOHN)",
+    "address": "1307 W 52ND ST",
+    "zip": "60609",
+    "acres": 57.69,
+    "ward": 20,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 3,
+      "basketball": 4,
+      "tennis": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.79675036121403,
+    "lon": -87.6575181999649
+  },
+  {
+    "id": "1014",
+    "name": "SHERWOOD (JESSE)",
+    "address": "5705 S SHIELDS AVE",
+    "zip": "60621",
+    "acres": 6.4,
+    "ward": 20,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.79031962431479,
+    "lon": -87.63360399474941
+  },
+  {
+    "id": "124",
+    "name": "SIMONS (ALMIRA)",
+    "address": "1640 N DRAKE AVE",
+    "zip": "60647",
+    "acres": 1.18,
+    "ward": 26,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.91154737374363,
+    "lon": -87.71535662591485
+  },
+  {
+    "id": "1155",
+    "name": "SINTIC (GREGORY)",
+    "address": "2835 S WALLACE ST",
+    "zip": "60616",
+    "acres": 0.2,
+    "ward": 11,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.842603322642496,
+    "lon": -87.64140241239909
+  },
+  {
+    "id": "211",
+    "name": "SKINNER (MARK)",
+    "address": "1331 W  MONROE ST",
+    "zip": "60606",
+    "acres": 5.85,
+    "ward": 27,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.879716366049344,
+    "lon": -87.66076423160838
+  },
+  {
+    "id": "1015",
+    "name": "SMITH (JOSEPH HIGGINS)",
+    "address": "2526 W GRAND AVE",
+    "zip": "60612",
+    "acres": 10.53,
+    "ward": 26,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.89318690693766,
+    "lon": -87.69009225422622
+  },
+  {
+    "id": "272",
+    "name": "SMITH (WENDELL)",
+    "address": "9912 S PRINCETON AVE",
+    "zip": "60628",
+    "acres": 4.61,
+    "ward": 9,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.71409222431617,
+    "lon": -87.63188388723091
+  },
+  {
+    "id": "396",
+    "name": "SNAPPING TURTLE",
+    "address": "534 N ALBANY AVE",
+    "zip": "60612",
+    "acres": 0.16,
+    "ward": 27,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.89146780990936,
+    "lon": -87.70414988529288
+  },
+  {
+    "id": "389",
+    "name": "SNOWBERRY",
+    "address": "1855 W HURON ST",
+    "zip": "60622",
+    "acres": 0.22,
+    "ward": 1,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.89392013023529,
+    "lon": -87.67420642557751
+  },
+  {
+    "id": "290",
+    "name": "SOUTH LAKEVIEW",
+    "address": "1300 W WOLFRAM ST",
+    "zip": "60657",
+    "acres": 0.8,
+    "ward": 32,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.93358432576879,
+    "lon": -87.66150905378116
+  },
+  {
+    "id": "429",
+    "name": "SOUTH SHORE CULTL. CTR.",
+    "address": "7059 S SOUTH SHORE DR",
+    "zip": "60649",
+    "acres": 71.79,
+    "ward": 5,
+    "parkClass": "CITYWIDE PARK",
+    "amenities": {
+      "beach": 1
+    },
+    "lat": 41.76739278335907,
+    "lon": -87.564208786393
+  },
+  {
+    "id": "424",
+    "name": "SPIKINGS FARM",
+    "address": "4706 N PULASKI RD",
+    "zip": "60630",
+    "acres": 0.15,
+    "ward": 39,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.966789762056614,
+    "lon": -87.72823590935806
+  },
+  {
+    "id": "280",
+    "name": "SPRUCE",
+    "address": "1437 E 54TH ST",
+    "zip": "60615",
+    "acres": 1.29,
+    "ward": 5,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.79856549748614,
+    "lon": -87.59011084736919
+  },
+  {
+    "id": "109",
+    "name": "STANTON (EDWIN)",
+    "address": "640 W SCOTT ST",
+    "zip": "60610",
+    "acres": 6.74,
+    "ward": 27,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 6
+    },
+    "lat": 41.90582282559841,
+    "lon": -87.64505333553174
+  },
+  {
+    "id": "497",
+    "name": "STARR (ELLEN GATES)",
+    "address": "2306 W MAYPOLE AVE",
+    "zip": "60612",
+    "acres": 2.13,
+    "ward": 27,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.883474529386554,
+    "lon": -87.6846462581584
+  },
+  {
+    "id": "370",
+    "name": "STARS & STRIPES",
+    "address": "7000 W 51ST PL",
+    "zip": "60638",
+    "acres": 1.96,
+    "ward": 23,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.79900717490659,
+    "lon": -87.79726671109047
+  },
+  {
+    "id": "266",
+    "name": "STATEWAY",
+    "address": "3658 S STATE ST",
+    "zip": "60609",
+    "acres": 3.96,
+    "ward": 3,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {},
+    "lat": 41.826474338986934,
+    "lon": -87.62694811447373
+  },
+  {
+    "id": "523",
+    "name": "STEELWORKERS",
+    "address": "E 87TH ST AT THE LAKE",
+    "zip": "60617",
+    "acres": 16.92,
+    "ward": 10,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.737529596500195,
+    "lon": -87.53008086317915
+  },
+  {
+    "id": "526",
+    "name": "STONE (BERNARD L.)",
+    "address": "3140 W PETERSON AVE",
+    "zip": "60659",
+    "acres": 7.53,
+    "ward": 50,
+    "parkClass": "LINEAR PARK",
+    "amenities": {},
+    "lat": 41.99396052360762,
+    "lon": -87.71024583543566
+  },
+  {
+    "id": "291",
+    "name": "STOUT (FLORENCE)",
+    "address": "5446 S GREENWOOD AVE",
+    "zip": "60615",
+    "acres": 2.81,
+    "ward": 5,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 2
+    },
+    "lat": 41.79646603105538,
+    "lon": -87.60064817233898
+  },
+  {
+    "id": "1016",
+    "name": "STROHACKER (HOWARD)",
+    "address": "4347 W 54TH ST",
+    "zip": "60632",
+    "acres": 4.35,
+    "ward": 23,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.79424191566304,
+    "lon": -87.73242850240365
+  },
+  {
+    "id": "1273",
+    "name": "SUMAC",
+    "address": "4201 S CHAMPLAIN AVE",
+    "zip": "60653",
+    "acres": 0.81,
+    "ward": 4,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "basketball": 2
+    },
+    "lat": 41.818428084223136,
+    "lon": -87.60984647037834
+  },
+  {
+    "id": "1151",
+    "name": "SUMMERDALE",
+    "address": "7262 W SUMMERDALE AVE",
+    "zip": "60656",
+    "acres": 0.22,
+    "ward": 41,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.977614940109554,
+    "lon": -87.80899167454199
+  },
+  {
+    "id": "158",
+    "name": "SUNKEN GARDENS",
+    "address": "2634 W SUNNYSIDE AVE",
+    "zip": "60625",
+    "acres": 0.32,
+    "ward": 47,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.963258646940865,
+    "lon": -87.69501530177426
+  },
+  {
+    "id": "451",
+    "name": "SUN YAT-SEN",
+    "address": "300 W 24TH PL",
+    "zip": "60616",
+    "acres": 0.45,
+    "ward": 11,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.848107939505546,
+    "lon": -87.63413301325009
+  },
+  {
+    "id": "1143",
+    "name": "SUPERA (LOUIS)",
+    "address": "2528 N RACINE AVE",
+    "zip": "60614",
+    "acres": 0.42,
+    "ward": 43,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.92798410613588,
+    "lon": -87.65879992668854
+  },
+  {
+    "id": "1150",
+    "name": "SUPERIOR",
+    "address": "2101 W SUPERIOR ST",
+    "zip": "60612",
+    "acres": 0.34,
+    "ward": 1,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.89474834250417,
+    "lon": -87.6796653665051
+  },
+  {
+    "id": "430",
+    "name": "SWEET CLOVER",
+    "address": "650 N LEAMINGTON AVE",
+    "zip": "60644",
+    "acres": 0.23,
+    "ward": 37,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.89288224423534,
+    "lon": -87.75461256657056
+  },
+  {
+    "id": "1274",
+    "name": "SYCAMORE",
+    "address": "5109 S GREENWOOD AVE",
+    "zip": "60615",
+    "acres": 0.64,
+    "ward": 4,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.80173964464838,
+    "lon": -87.59950497661046
+  },
+  {
+    "id": "1025",
+    "name": "TAYLOR-LAURIDSEN (JOHN, EMIL)",
+    "address": "647 W ROOT ST",
+    "zip": "60609",
+    "acres": 4.93,
+    "ward": 11,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.81819259165983,
+    "lon": -87.64232358082789
+  },
+  {
+    "id": "271",
+    "name": "TAYLOR (ROBERT ROCHON)",
+    "address": "100 W 47TH ST",
+    "zip": "60609",
+    "acres": 9.69,
+    "ward": 3,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 6,
+      "tennis": 1,
+      "outdoorPool": 1
+    },
+    "lat": 41.80873052422786,
+    "lon": -87.62760787927672
+  },
+  {
+    "id": "397",
+    "name": "THE GROVE",
+    "address": "8421 S MORGAN ST",
+    "zip": "60620",
+    "acres": 0.32,
+    "ward": 21,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.74067938243067,
+    "lon": -87.64838667410285
+  },
+  {
+    "id": "1159",
+    "name": "THROOP (AMOS GAGER)",
+    "address": "1811 S THROOP ST",
+    "zip": "60608",
+    "acres": 0.72,
+    "ward": 25,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.85738303475416,
+    "lon": -87.65857689000872
+  },
+  {
+    "id": "1119",
+    "name": "THUIS (GRACE ZWIEFKA)",
+    "address": "4800 N LAVERGNE AVE",
+    "zip": "60630",
+    "acres": 0.9,
+    "ward": 45,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.96773951965137,
+    "lon": -87.75199490162817
+  },
+  {
+    "id": "1154",
+    "name": "TILL-MOBLEY (MAMIE)",
+    "address": "6410 S ELLIS AVE",
+    "zip": "60637",
+    "acres": 0.66,
+    "ward": 20,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.778140454455674,
+    "lon": -87.60061359220302
+  },
+  {
+    "id": "1064",
+    "name": "TILTON (GEORGE)",
+    "address": "305 N KOSTNER",
+    "zip": "60624",
+    "acres": 1.14,
+    "ward": 28,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.88564166509811,
+    "lon": -87.7352730842355
+  },
+  {
+    "id": "481",
+    "name": "TOM (PING) MEML.",
+    "address": "300 W 18TH ST",
+    "zip": "60616",
+    "acres": 17.53,
+    "ward": 25,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.857807402323886,
+    "lon": -87.63424052154465
+  },
+  {
+    "id": "1065",
+    "name": "TOUHY-HERBERT (JOHN, VICTOR)",
+    "address": "2106 W ADAMS ST",
+    "zip": "60612",
+    "acres": 3.26,
+    "ward": 27,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.87947433674174,
+    "lon": -87.67897041080631
+  },
+  {
+    "id": "246",
+    "name": "TOUHY (PATRICK)",
+    "address": "7348 N PAULINA ST",
+    "zip": "60626",
+    "acres": 6.68,
+    "ward": 49,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2
+    },
+    "lat": 42.01475662911244,
+    "lon": -87.67377432995545
+  },
+  {
+    "id": "1017",
+    "name": "TREBES",
+    "address": "2250 N CLIFTON AVE",
+    "zip": "60614",
+    "acres": 1.85,
+    "ward": 43,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "basketball": 1
+    },
+    "lat": 41.92207381913635,
+    "lon": -87.65781366520753
+  },
+  {
+    "id": "518",
+    "name": "TRIANGLE",
+    "address": "1750 W JUNEWAY TER",
+    "zip": "60626",
+    "acres": 2.19,
+    "ward": 49,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 42.022398670935345,
+    "lon": -87.67478984824668
+  },
+  {
+    "id": "16",
+    "name": "TRUMBULL (LYMAN)",
+    "address": "2400 E 105TH ST",
+    "zip": "60617",
+    "acres": 18.04,
+    "ward": 7,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.70625621150383,
+    "lon": -87.5643791786577
+  },
+  {
+    "id": "18",
+    "name": "TULEY (MURRAY)",
+    "address": "501 E 90TH PL",
+    "zip": "60619",
+    "acres": 18.7,
+    "ward": 9,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 13,
+      "outdoorPool": 1
+    },
+    "lat": 41.73017441383304,
+    "lon": -87.61193493353151
+  },
+  {
+    "id": "210",
+    "name": "UNION",
+    "address": "1501 W RANDOLPH ST",
+    "zip": "60607",
+    "acres": 14.24,
+    "ward": 27,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.88325359665215,
+    "lon": -87.66539966166403
+  },
+  {
+    "id": "293",
+    "name": "UNITY",
+    "address": "2636 N KIMBALL AVE",
+    "zip": "60647",
+    "acres": 1.44,
+    "ward": 35,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.92984062912934,
+    "lon": -87.71253922930046
+  },
+  {
+    "id": "371",
+    "name": "VALLEY FORGE",
+    "address": "7001 W 59TH ST",
+    "zip": "60638",
+    "acres": 8.32,
+    "ward": 0,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 2
+    },
+    "lat": 41.78459466917809,
+    "lon": -87.79801864890737
+  },
+  {
+    "id": "1067",
+    "name": "VETERANS' MEMORIAL",
+    "address": "2820 E 98TH ST",
+    "zip": "60617",
+    "acres": 4.81,
+    "ward": 10,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.718141359775764,
+    "lon": -87.55589735110205
+  },
+  {
+    "id": "361",
+    "name": "VIOLET",
+    "address": "4120 W TAYLOR ST",
+    "zip": "60624",
+    "acres": 0.59,
+    "ward": 24,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.86920544020301,
+    "lon": -87.72897802478954
+  },
+  {
+    "id": "233",
+    "name": "VITTUM (HARRIET ELIZABETH)",
+    "address": "5014 W 50TH ST",
+    "zip": "60638",
+    "acres": 13.31,
+    "ward": 22,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 2
+    },
+    "lat": 41.80305306799655,
+    "lon": -87.74874816736498
+  },
+  {
+    "id": "402",
+    "name": "VOGLE (HENRY JR.)",
+    "address": "2100 W LAWRENCE AVE",
+    "zip": "60625",
+    "acres": 0.3,
+    "ward": 47,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.9689255407955,
+    "lon": -87.68179591922605
+  },
+  {
+    "id": "1068",
+    "name": "WAGNER (CLARENCE)",
+    "address": "948 W 51ST ST",
+    "zip": "60609",
+    "acres": 1.07,
+    "ward": 20,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.80173179811139,
+    "lon": -87.64904826905014
+  },
+  {
+    "id": "1069",
+    "name": "WALLACE",
+    "address": "607 W 92ND ST",
+    "zip": "60620",
+    "acres": 1.04,
+    "ward": 21,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.726704407427626,
+    "lon": -87.6387744101062
+  },
+  {
+    "id": "393",
+    "name": "WALSH (JOHN)",
+    "address": "1722 N ASHLAND AVE",
+    "zip": "60614",
+    "acres": 2.18,
+    "ward": 32,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "dogFriendly": 1
+    },
+    "lat": 41.9138955465003,
+    "lon": -87.66842259570382
+  },
+  {
+    "id": "522",
+    "name": "WANG (CHI CHE)",
+    "address": "1719 W WOLFRAM ST",
+    "zip": "60657",
+    "acres": 1.97,
+    "ward": 32,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.93296509819394,
+    "lon": -87.67309099572375
+  },
+  {
+    "id": "511",
+    "name": "WARD (A. MONTGOMERY)",
+    "address": "630 N KINGSBURY AVE",
+    "zip": "60610",
+    "acres": 2.92,
+    "ward": 0,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "dogFriendly": 1
+    },
+    "lat": 41.893792428738124,
+    "lon": -87.64265598629164
+  },
+  {
+    "id": "521",
+    "name": "WARNER GARDEN",
+    "address": "1426 W WARNER AVE",
+    "zip": "60613",
+    "acres": 0.16,
+    "ward": 47,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.95724271630429,
+    "lon": -87.66619355711586
+  },
+  {
+    "id": "428",
+    "name": "WARREN (LAURENCE)",
+    "address": "6621 N WESTERN AVE",
+    "zip": "60645",
+    "acres": 89.63,
+    "ward": 50,
+    "parkClass": "CITYWIDE PARK",
+    "amenities": {
+      "playground": 3,
+      "basketball": 12,
+      "tennis": 6
+    },
+    "lat": 42.00301686416394,
+    "lon": -87.68403975969584
+  },
+  {
+    "id": "388",
+    "name": "WASHINGTON (DINAH)",
+    "address": "8215 S EUCLID AVE",
+    "zip": "60617",
+    "acres": 0.48,
+    "ward": 8,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.745539237055354,
+    "lon": -87.57679043168048
+  },
+  {
+    "id": "21",
+    "name": "WASHINGTON (GEORGE)",
+    "address": "5531 S DR MARTIN LUTHER KING J",
+    "zip": "60637",
+    "acres": 350.49,
+    "ward": 0,
+    "parkClass": "CITYWIDE PARK",
+    "amenities": {
+      "playground": 4,
+      "basketball": 18,
+      "tennis": 10,
+      "outdoorPool": 1
+    },
+    "lat": 41.79604485782378,
+    "lon": -87.61029714848468
+  },
+  {
+    "id": "494",
+    "name": "WASHINGTON (HAROLD)",
+    "address": "5200 S HYDE PARK BLVD",
+    "zip": "60615",
+    "acres": 25.4,
+    "ward": 5,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 8
+    },
+    "lat": 41.80303033761445,
+    "lon": -87.5828405573676
+  },
+  {
+    "id": "506",
+    "name": "WASHINGTON (HAROLD) MEM.",
+    "address": "7710 N PAULINA ST",
+    "zip": "60626",
+    "acres": 0.21,
+    "ward": 49,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 42.02148500192515,
+    "lon": -87.6732417599057
+  },
+  {
+    "id": "1244",
+    "name": "WASHINGTON SQUARE",
+    "address": "901 N CLARK ST",
+    "zip": "60610",
+    "acres": 2.84,
+    "ward": 2,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.89935000234299,
+    "lon": -87.63056405203852
+  },
+  {
+    "id": "1070",
+    "name": "WASHTENAW",
+    "address": "2521 S WASHTENAW AVE",
+    "zip": "60608",
+    "acres": 1.02,
+    "ward": 24,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.845944626239294,
+    "lon": -87.69261480369013
+  },
+  {
+    "id": "513",
+    "name": "WEBSTER (DANIEL)",
+    "address": "1401 S INDIANA AVE",
+    "zip": "60605",
+    "acres": 1.31,
+    "ward": 3,
+    "parkClass": "PASSIVE PARK",
+    "amenities": {},
+    "lat": 41.864295790516636,
+    "lon": -87.6220176492744
+  },
+  {
+    "id": "1135",
+    "name": "WEISMAN (ALBERT)",
+    "address": "901 W OAKDALE AVE",
+    "zip": "60657",
+    "acres": 0.4,
+    "ward": 44,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.93516494474811,
+    "lon": -87.65169106592239
+  },
+  {
+    "id": "110",
+    "name": "WELLES (GIDEON)",
+    "address": "2333 W SUNNYSIDE AVE",
+    "zip": "60625",
+    "acres": 15.97,
+    "ward": 47,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 2,
+      "tennis": 3
+    },
+    "lat": 41.962092488771994,
+    "lon": -87.6869208780137
+  },
+  {
+    "id": "1145",
+    "name": "WENDT (KENNETH)",
+    "address": "667 W ROSCOE ST",
+    "zip": "60657",
+    "acres": 0.17,
+    "ward": 44,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.94350686178161,
+    "lon": -87.64713834766675
+  },
+  {
+    "id": "238",
+    "name": "WENTWORTH (JOHN)",
+    "address": "5625 S MOBILE AVE",
+    "zip": "60638",
+    "acres": 15.96,
+    "ward": 13,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 6,
+      "tennis": 4
+    },
+    "lat": 41.7881845246879,
+    "lon": -87.78012685391924
+  },
+  {
+    "id": "286",
+    "name": "WENTWORTH (JOHN) GARDENS",
+    "address": "3770 S WENTWORTH AVE",
+    "zip": "60609",
+    "acres": 2.53,
+    "ward": 3,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "outdoorPool": 1
+    },
+    "lat": 41.825412872199806,
+    "lon": -87.63247587707633
+  },
+  {
+    "id": "1080",
+    "name": "WESOLEK (MARLENE)",
+    "address": "13407 S AVENUE M",
+    "zip": "60633",
+    "acres": 0.46,
+    "ward": 10,
+    "parkClass": "MINI-PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.65175955508302,
+    "lon": -87.53730938967462
+  },
+  {
+    "id": "249",
+    "name": "WEST CHATHAM",
+    "address": "8223 S PRINCETON AVE",
+    "zip": "60620",
+    "acres": 14.03,
+    "ward": 21,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 2
+    },
+    "lat": 41.74486624635706,
+    "lon": -87.63135693412903
+  },
+  {
+    "id": "1165",
+    "name": "WESTERN",
+    "address": "907 N WESTERN AVE",
+    "zip": "60622",
+    "acres": 0.28,
+    "ward": 1,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.89804541852578,
+    "lon": -87.6866179480135
+  },
+  {
+    "id": "245",
+    "name": "WEST LAWN",
+    "address": "4233 W 65TH ST",
+    "zip": "60629",
+    "acres": 16.48,
+    "ward": 13,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.77228439501171,
+    "lon": -87.72780736455711
+  },
+  {
+    "id": "225",
+    "name": "WEST PULLMAN",
+    "address": "401 W 123RD ST",
+    "zip": "60628",
+    "acres": 16.18,
+    "ward": 34,
+    "parkClass": "REGIONAL PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2,
+      "tennis": 5
+    },
+    "lat": 41.66978262348417,
+    "lon": -87.63124731028014
+  },
+  {
+    "id": "568",
+    "name": "WEST RIDGE NATURE PARK",
+    "address": "5601 N WESTERN AVE",
+    "zip": "60659",
+    "acres": 23.68,
+    "ward": 40,
+    "parkClass": "NATURE PRESERVE PARK",
+    "amenities": {},
+    "lat": 41.98836137260113,
+    "lon": -87.68840881964053
+  },
+  {
+    "id": "379",
+    "name": "WHITE (EDWARD)",
+    "address": "1120 W 122ND ST",
+    "zip": "60643",
+    "acres": 5.5,
+    "ward": 34,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 2
+    },
+    "lat": 41.672820819713095,
+    "lon": -87.64977874298512
+  },
+  {
+    "id": "560",
+    "name": "WHITE (JESSE)",
+    "address": "410 W CHICAGO AVE",
+    "zip": "60654",
+    "acres": 1.67,
+    "ward": 27,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {},
+    "lat": 41.89689454046881,
+    "lon": -87.63930991236899
+  },
+  {
+    "id": "1043",
+    "name": "WHITE (WILLYE B.)",
+    "address": "7631 N ASHLAND AVE",
+    "zip": "60626",
+    "acres": 3.31,
+    "ward": 49,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 42.01977454117136,
+    "lon": -87.67096227104092
+  },
+  {
+    "id": "214",
+    "name": "WICKER (CHARLES, JOEL)",
+    "address": "1425 N DAMEN AVE",
+    "zip": "60622",
+    "acres": 4.74,
+    "ward": 1,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "dogFriendly": 1,
+      "basketball": 4
+    },
+    "lat": 41.90782375062511,
+    "lon": -87.67636122236827
+  },
+  {
+    "id": "449",
+    "name": "WIEBOLDT (WILLIAM)",
+    "address": "1747 W NELSON ST",
+    "zip": "60657",
+    "acres": 0.33,
+    "ward": 32,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.93675450707678,
+    "lon": -87.67292951470048
+  },
+  {
+    "id": "257",
+    "name": "WILDWOOD",
+    "address": "6950 N HIAWATHA AVE",
+    "zip": "60646",
+    "acres": 9.51,
+    "ward": 3,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 2
+    },
+    "lat": 42.00841918245364,
+    "lon": -87.78038172806957
+  },
+  {
+    "id": "261",
+    "name": "WILLIAMS (DANIEL HALE)",
+    "address": "2820 S STATE ST",
+    "zip": "60616",
+    "acres": 6.75,
+    "ward": 2,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 2
+    },
+    "lat": 41.84280871441944,
+    "lon": -87.62829860099937
+  },
+  {
+    "id": "532",
+    "name": "WILLIAMS-DAVIS (HATTIE KAY,IZORA)",
+    "address": "4101 S. LAKE PARK AVE",
+    "zip": "60653",
+    "acres": 2.89,
+    "ward": 4,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.820239365407424,
+    "lon": -87.59961613650052
+  },
+  {
+    "id": "145",
+    "name": "WILSON (FRANK)",
+    "address": "4630 N MILWAUKEE AVE",
+    "zip": "60630",
+    "acres": 8.66,
+    "ward": 45,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4,
+      "tennis": 3
+    },
+    "lat": 41.96428096443222,
+    "lon": -87.75939375413155
+  },
+  {
+    "id": "1071",
+    "name": "WILSON (JOHN)",
+    "address": "1122 W 34TH PL",
+    "zip": "60608",
+    "acres": 1.55,
+    "ward": 11,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1
+    },
+    "lat": 41.83176587325037,
+    "lon": -87.65434688976893
+  },
+  {
+    "id": "1018",
+    "name": "WILSON (JOHN) COMM. CTR.",
+    "address": "3225 S RACINE AVE",
+    "zip": "60608",
+    "acres": 0.21,
+    "ward": 11,
+    "parkClass": "COMMUNITY PARK",
+    "amenities": {},
+    "lat": 41.835300955233166,
+    "lon": -87.65560693982695
+  },
+  {
+    "id": "486",
+    "name": "WINNEMAC",
+    "address": "5001 N LEAVITT ST",
+    "zip": "60625",
+    "acres": 22.73,
+    "ward": 40,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "tennis": 2
+    },
+    "lat": 41.973513986214186,
+    "lon": -87.68219967150446
+  },
+  {
+    "id": "403",
+    "name": "WOLCOTT (ALEXANDER)",
+    "address": "6551 S WOLCOTT AVE",
+    "zip": "60636",
+    "acres": 0.24,
+    "ward": 15,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.774192872831044,
+    "lon": -87.67114334703875
+  },
+  {
+    "id": "1072",
+    "name": "WOLFE (RICHARD)",
+    "address": "3325 E 108TH ST",
+    "zip": "60617",
+    "acres": 4.47,
+    "ward": 10,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.697736091187494,
+    "lon": -87.54290999473106
+  },
+  {
+    "id": "1073",
+    "name": "WOODHULL (ROSS)",
+    "address": "7340 S EAST END AVE",
+    "zip": "60649",
+    "acres": 2.46,
+    "ward": 8,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 4
+    },
+    "lat": 41.76219936113684,
+    "lon": -87.58398755918947
+  },
+  {
+    "id": "1074",
+    "name": "WRIGHTWOOD",
+    "address": "2534 N GREENVIEW AVE",
+    "zip": "60614",
+    "acres": 4.64,
+    "ward": 32,
+    "parkClass": "NEIGHBORHOOD PARK",
+    "amenities": {
+      "playground": 1,
+      "basketball": 8,
+      "outdoorPool": 1
+    },
+    "lat": 41.92847852248869,
+    "lon": -87.66701333709455
+  },
+  {
+    "id": "1107",
+    "name": "ZATTERBERG (HELEN)",
+    "address": "4246 N HERMITAGE AVE",
+    "zip": "60613",
+    "acres": 0.22,
+    "ward": 47,
+    "parkClass": "MINI-PARK",
+    "amenities": {},
+    "lat": 41.95928486410962,
+    "lon": -87.6726113182884
+  }
+]

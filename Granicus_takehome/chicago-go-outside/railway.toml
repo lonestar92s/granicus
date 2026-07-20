@@ -1,0 +1,11 @@
+# Railway — ChicaGO Outside (static Vite app)
+# Set root directory to chicago-go-outside when deploying from parent repo.
+# Required build-time env: VITE_MAPBOX_TOKEN
+
+[build]
+builder = "NIXPACKS"
+buildCommand = "npm run build"
+
+[deploy]
+startCommand = "sh -c 'serve dist -s -l tcp://0.0.0.0:${PORT:-3000}'"
+restartPolicyType = "ON_FAILURE"
